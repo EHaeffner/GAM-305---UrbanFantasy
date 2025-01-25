@@ -6,6 +6,9 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 <<<<<<< HEAD
+				"C:/Users/camer/OneDrive/Documents/GitHub/GAM-305---UrbanFantasy/UrbanFantasy/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset"
+=======
+<<<<<<< HEAD
 				"D:/URBANFANTASY/GAM-305---UrbanFantasy/UrbanFantasy/Content/Characters/Enemy_CHAR/MeleeEnemy_CHAR.uasset"
 =======
 				"C:/Users/javc0/Documents/GitHub/GAM-305---UrbanFantasy/UrbanFantasy/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/3J/6B9RJI3FDPCETRKXUXCQ4C.uasset",
@@ -95,6 +98,7 @@
 				"C:/Users/javc0/Documents/GitHub/GAM-305---UrbanFantasy/UrbanFantasy/Content/Maps/_GENERATED/javc0/Box_E9AFA7B1.uasset",
 				"D:/URBANFANTASY/UrbanFantasy/Content/StarterContent/Architecture/Floor_400x400.uasset"
 >>>>>>> 034591ae3e3617b33a3cca2b9fd46cd5ea391c8c
+>>>>>>> 1665122bb9fe4c9896b3c8ecf8bf1944b4e182b4
 			]
 		}
 	]
