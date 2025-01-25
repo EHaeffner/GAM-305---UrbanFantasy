@@ -5,14 +5,7 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-<<<<<<< HEAD
-				"C:/Users/javc0/Documents/GitHub/GAM-305---UrbanFantasy/UrbanFantasy/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/3J/6B9RJI3FDPCETRKXUXCQ4C.uasset",
-				"C:/Users/javc0/Documents/GitHub/GAM-305---UrbanFantasy/UrbanFantasy/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/U7/H8YL2PPHZPBTI74SUD0RNL.uasset",
-				"C:/Users/javc0/Documents/GitHub/GAM-305---UrbanFantasy/UrbanFantasy/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/16/Q7Y1URWWFS0TXGWUTO3S61.uasset",
-=======
-				"D:/URBANFANTASY/GAM-305---UrbanFantasy/UrbanFantasy/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/16/Q7Y1URWWFS0TXGWUTO3S61.uasset",
->>>>>>> 750cf92be64d8e176a88c1be398b8bb7efda2680
-				"D:/URBANFANTASY/UrbanFantasy/Content/StarterContent/Architecture/Floor_400x400.uasset"
+				"D:/URBANFANTASY/GAM-305---UrbanFantasy/UrbanFantasy/Content/Characters/Enemy_CHAR/MeleeEnemy_CHAR.uasset"
 			]
 		}
 	]
