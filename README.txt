@@ -1,4 +1,9 @@
 GAM-305 Team Project
+
+******************************
+*Module Two Team Project Plan*
+******************************
+
 Side scrolling Metroidvania – Low Fantasy (Urban Setting)
 Repository - https://github.com/EHaeffner/GAM-305---UrbanFantasy
 Roles:
@@ -9,7 +14,7 @@ Roles:
 •	Allan – Project Lead/Programming
 
 Schedule:
-•	Alpha done by Wednesday of week 4
+•	Alpha done by Friday of week 4
 •	Beta done by Friday of Week 5
 
 Development goals
@@ -44,3 +49,42 @@ o	Friday will be short meeting to get any projects moving over the weekend and a
 o	Sunday will be a longer meeting to discuss that weeks submission and  prepare for the following week 
 Method for assigning and reporting:
 •	Comments in UE5 blueprints, GitHub updates, and discord updates.
+
+******************************************************************
+*Module Three Project Log - Team Development: QA and Testing Plan*
+******************************************************************
+
+Play Test - Sunday January 24, 2025
+	o We will test the base character controls, at least one enemy type, and the first area of the level design
+
+Demo - Friday Morning of week 4
+	o We will have a demo ready with Friday morning
+
+Code Release - Saturday of Week 4
+
+TEST LIST
+{} Character Movement
+	[] Running
+	[] Turning
+	[] Jumping
+	[] Camera Movement
+	[] Wall Jump
+
+{} UI functions
+
+{} Obstacle Testing
+
+{} Check the animation vs hit/hurt box
+
+{} Enemy classes
+	[] Take damage
+	[] Deal damage
+	[] Find the player
+	[] Follow the player
+	[] Stop following player
+
+BUG TRACKING
+
+o Bugs will be tracked, reported, and checked off using a Trillo Board. (https://trello.com/)
+	o Each person will have access to adding and checking off tasks as we go forward with testing.
+
