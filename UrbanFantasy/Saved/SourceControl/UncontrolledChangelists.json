@@ -10,7 +10,12 @@
 				"C:/Users/javc0/Documents/GitHub/GAM-305---UrbanFantasy/UrbanFantasy/Content/Maps/Level.umap",
 				"C:/Users/javc0/Documents/GitHub/GAM-305---UrbanFantasy/UrbanFantasy/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
 				"C:/Users/javc0/Documents/GitHub/GAM-305---UrbanFantasy/UrbanFantasy/Content/Maps/_GENERATED/javc0/Box_066EB44A.uasset",
-				"C:/Users/javc0/Documents/GitHub/GAM-305---UrbanFantasy/UrbanFantasy/Content/Maps/_GENERATED/javc0/Box_700F9EAB.uasset"
+				"C:/Users/javc0/Documents/GitHub/GAM-305---UrbanFantasy/UrbanFantasy/Content/Maps/_GENERATED/javc0/Box_700F9EAB.uasset",
+				"C:/Users/javc0/Documents/GitHub/GAM-305---UrbanFantasy/UrbanFantasy/Content/CameraActor_Blueprint.uasset",
+				"C:/Users/javc0/Documents/GitHub/GAM-305---UrbanFantasy/UrbanFantasy/Content/Camera/CameraActor_Blueprint.uasset",
+				"C:/Users/javc0/Documents/GitHub/GAM-305---UrbanFantasy/UrbanFantasy/Content/Camera/BP_CameraSwitch.uasset",
+				"C:/Users/javc0/Documents/GitHub/GAM-305---UrbanFantasy/UrbanFantasy/Content/Checkpoint_And_Goal/BP_Checkpoint.uasset",
+				"C:/Users/javc0/Documents/GitHub/GAM-305---UrbanFantasy/UrbanFantasy/Content/Checkpoint_And_Goal/BP_Goal.uasset"
 			]
 		}
 	]
