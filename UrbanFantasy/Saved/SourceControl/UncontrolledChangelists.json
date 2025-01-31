@@ -5,6 +5,12 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/Donat/OneDrive/Documents/GitHub/GAM-305---UrbanFantasy/UrbanFantasy/Content/Characters/Mannequins/Animations/ABP_Manny.uasset",
+				"C:/Users/Donat/OneDrive/Documents/GitHub/GAM-305---UrbanFantasy/UrbanFantasy/Content/Characters/Mannequins/Animations/Manny/AM_Punch_Standard.uasset",
+				"C:/Users/Donat/OneDrive/Documents/GitHub/GAM-305---UrbanFantasy/UrbanFantasy/Content/Characters/Mannequins/Animations/Manny/QuickPunching_UE.uasset",
+				"C:/Users/Donat/OneDrive/Documents/GitHub/GAM-305---UrbanFantasy/UrbanFantasy/Content/Maps/Level.umap",
+				"C:/Users/Donat/OneDrive/Documents/GitHub/GAM-305---UrbanFantasy/UrbanFantasy/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/Donat/OneDrive/Documents/GitHub/GAM-305---UrbanFantasy/UrbanFantasy/Content/ThirdPerson/Blueprints/AnimNS_HitDetection.uasset",
 				"C:/Users/javc0/Documents/GitHub/GAM-305---UrbanFantasy/UrbanFantasy/Content/BP_Checkpoint.uasset",
 				"C:/Users/javc0/Documents/GitHub/GAM-305---UrbanFantasy/UrbanFantasy/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset",
 				"C:/Users/javc0/Documents/GitHub/GAM-305---UrbanFantasy/UrbanFantasy/Content/Maps/Level.umap",
