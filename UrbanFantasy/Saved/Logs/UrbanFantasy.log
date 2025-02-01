@@ -2066,3 +2066,59 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.02.01-09.51.33:330][446]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
 [2025.02.01-09.51.33:337][446]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
 [2025.02.01-09.51.33:387][448]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2025.02.01-09.53.22:943][945]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2025.02.01-09.53.22:950][945]LogSlate: Window 'Color Picker' being destroyed
+[2025.02.01-09.53.23:999][ 46]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.01-09.53.24:048][ 46]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UIX/MM_Widget] ([2] browsable assets)...
+[2025.02.01-09.53.24:050][ 46]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UIX/MM_Widget.MM_Widget]
+[2025.02.01-09.53.24:050][ 46]OBJ SavePackage: Finished generating thumbnails for package [/Game/UIX/MM_Widget]
+[2025.02.01-09.53.24:050][ 46]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UIX/MM_Widget" FILE="../../../../../../Users/scott/Desktop/DevProjects/GAM-305---UrbanFantasy/UrbanFantasy/Content/UIX/MM_Widget.uasset" SILENT=true
+[2025.02.01-09.53.24:054][ 46]LogSavePackage: Moving output files for package: /Game/UIX/MM_Widget
+[2025.02.01-09.53.24:055][ 46]LogSavePackage: Moving '../../../../../../Users/scott/Desktop/DevProjects/GAM-305---UrbanFantasy/UrbanFantasy/Saved/MM_Widget1D814D414320029CC6DB2B90900B261F.tmp' to '../../../../../../Users/scott/Desktop/DevProjects/GAM-305---UrbanFantasy/UrbanFantasy/Content/UIX/MM_Widget.uasset'
+[2025.02.01-09.53.24:061][ 46]LogFileHelpers: InternalPromptForCheckoutAndSave took 61.687 ms (total: 970.066 ms)
+[2025.02.01-09.53.24:115][ 46]LogContentValidation: Display: Starting to validate 1 assets
+[2025.02.01-09.53.24:115][ 46]LogContentValidation: Enabled validators:
+[2025.02.01-09.53.24:115][ 46]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.02.01-09.53.24:115][ 46]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.02.01-09.53.24:115][ 46]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.02.01-09.53.24:115][ 46]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.02.01-09.53.24:115][ 46]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.02.01-09.53.24:115][ 46]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.02.01-09.53.24:116][ 46]AssetCheck: /Game/UIX/MM_Widget Validating asset
+[2025.02.01-09.53.25:516][207]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2025.02.01-09.53.26:464][297]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.01-09.53.26:499][297]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UIX/MM_Widget] ([2] browsable assets)...
+[2025.02.01-09.53.26:501][297]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UIX/MM_Widget.MM_Widget]
+[2025.02.01-09.53.26:501][297]OBJ SavePackage: Finished generating thumbnails for package [/Game/UIX/MM_Widget]
+[2025.02.01-09.53.26:501][297]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UIX/MM_Widget" FILE="../../../../../../Users/scott/Desktop/DevProjects/GAM-305---UrbanFantasy/UrbanFantasy/Content/UIX/MM_Widget.uasset" SILENT=true
+[2025.02.01-09.53.26:504][297]LogSavePackage: Moving output files for package: /Game/UIX/MM_Widget
+[2025.02.01-09.53.26:506][297]LogSavePackage: Moving '../../../../../../Users/scott/Desktop/DevProjects/GAM-305---UrbanFantasy/UrbanFantasy/Saved/MM_WidgetF38B81D848BFA6A797DB94A954461CF7.tmp' to '../../../../../../Users/scott/Desktop/DevProjects/GAM-305---UrbanFantasy/UrbanFantasy/Content/UIX/MM_Widget.uasset'
+[2025.02.01-09.53.26:512][297]LogFileHelpers: InternalPromptForCheckoutAndSave took 46.056 ms (total: 1.01 sec)
+[2025.02.01-09.53.26:549][297]LogContentValidation: Display: Starting to validate 1 assets
+[2025.02.01-09.53.26:549][297]LogContentValidation: Enabled validators:
+[2025.02.01-09.53.26:549][297]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.02.01-09.53.26:549][297]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.02.01-09.53.26:549][297]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.02.01-09.53.26:549][297]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.02.01-09.53.26:549][297]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.02.01-09.53.26:549][297]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.02.01-09.53.26:550][297]AssetCheck: /Game/UIX/MM_Widget Validating asset
+[2025.02.01-09.53.36:908][521]LogSlate: Window 'Color Picker' being destroyed
+[2025.02.01-09.53.38:088][657]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2025.02.01-09.53.39:251][760]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.01-09.53.39:283][760]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UIX/MM_Widget] ([2] browsable assets)...
+[2025.02.01-09.53.39:285][760]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UIX/MM_Widget.MM_Widget]
+[2025.02.01-09.53.39:285][760]OBJ SavePackage: Finished generating thumbnails for package [/Game/UIX/MM_Widget]
+[2025.02.01-09.53.39:285][760]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UIX/MM_Widget" FILE="../../../../../../Users/scott/Desktop/DevProjects/GAM-305---UrbanFantasy/UrbanFantasy/Content/UIX/MM_Widget.uasset" SILENT=true
+[2025.02.01-09.53.39:288][760]LogSavePackage: Moving output files for package: /Game/UIX/MM_Widget
+[2025.02.01-09.53.39:289][760]LogSavePackage: Moving '../../../../../../Users/scott/Desktop/DevProjects/GAM-305---UrbanFantasy/UrbanFantasy/Saved/MM_Widget62A09A24441DDC1B599E789BBC1DE9FE.tmp' to '../../../../../../Users/scott/Desktop/DevProjects/GAM-305---UrbanFantasy/UrbanFantasy/Content/UIX/MM_Widget.uasset'
+[2025.02.01-09.53.39:295][760]LogFileHelpers: InternalPromptForCheckoutAndSave took 43.755 ms (total: 1.05 sec)
+[2025.02.01-09.53.39:349][760]LogContentValidation: Display: Starting to validate 1 assets
+[2025.02.01-09.53.39:349][760]LogContentValidation: Enabled validators:
+[2025.02.01-09.53.39:349][760]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.02.01-09.53.39:349][760]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.02.01-09.53.39:349][760]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.02.01-09.53.39:349][760]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.02.01-09.53.39:349][760]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.02.01-09.53.39:349][760]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.02.01-09.53.39:350][760]AssetCheck: /Game/UIX/MM_Widget Validating asset
