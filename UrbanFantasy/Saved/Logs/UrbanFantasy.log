@@ -2020,3 +2020,13 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.02.02-21.09.34:685][364]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
 [2025.02.02-21.09.34:693][364]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
 [2025.02.02-21.09.34:757][366]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2025.02.02-21.10.08:036][422]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2025.02.02-21.10.08:037][422]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/Level' took 0.016
+[2025.02.02-21.10.08:038][422]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonGameMode] ([2] browsable assets)...
+[2025.02.02-21.10.08:038][422]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonGameMode]
+[2025.02.02-21.10.08:043][422]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Blueprints/BP_ThirdPersonGameMode_Auto1
+[2025.02.02-21.10.08:043][422]LogSavePackage: Moving '../../../../../../Users/scott/Desktop/DevProjects/GAM-305---UrbanFantasy/UrbanFantasy/Saved/BP_ThirdPersonGameMode_Auto15497B3A34DF5F4270A4E18BEB8FC89B0.tmp' to '../../../../../../Users/scott/Desktop/DevProjects/GAM-305---UrbanFantasy/UrbanFantasy/Saved/Autosaves/Game/ThirdPerson/Blueprints/BP_ThirdPersonGameMode_Auto1.uasset'
+[2025.02.02-21.10.08:044][422]LogFileHelpers: Auto-saving content packages took 0.007
+[2025.02.02-21.11.51:667][733]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 979.370300
+[2025.02.02-21.11.52:668][736]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.02.02-21.11.52:668][736]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 980.037354, Update Interval: 318.950165
