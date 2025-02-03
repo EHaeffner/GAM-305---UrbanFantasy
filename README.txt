@@ -88,3 +88,27 @@ BUG TRACKING
 o Bugs will be tracked, reported, and checked off using a Trillo Board. (https://trello.com/)
 	o Each person will have access to adding and checking off tasks as we go forward with testing.
 
+
+
+************************************************************
+*Module Four Project Log: Team Reflection and Alpha Release*
+************************************************************
+
+-Testing Progress –
+
+-Bugs identified – 
+•	Camera switching between rooms could get stuck
+•	First room camera was not connected to it’s trigger box correctly
+•	Checkpoint SFX go off every time the player runs by and turn in front of them
+	o	The end points music can stack to the point of crashing.
+•	Wall jump is overtuned, jumps can cross most of the room.
+•	Dying reattaches the camera to the player character rather than the room
+•	Checkpoint’s respawned outside of the map
+
+-What would we do differently?-
+•	Working on the QA and testing together more so than we did this time
+	o	Due to the time constraints and scheduling conflicts, we were not able to meet up enough to efficiently test the game as a group more than once or twice.
+-Tools used-
+•	Effective – GitHub has been the main way our team has shared the files and resources of our game with each other. We ran into some issues early on with everyone getting properly connected to it, but now we are all mostly on the same page. We have also been using discord twice a week to perform meetings and check-ins, as well as constant messages almost daily as we work together on this project.
+•	Ineffective – The main tools that we chose to use for this project have been useful in each way we’ve used them. GitHub did give us some issues early on, but not in a way that hindered our project for very long.
+•	The teams early approach to planning what tools to use when analyzing the game design document allowed us to quickly get started with setting everything up. Since there was no arguments or disagreements on what we were using or who was creating it, we were able to begin right at the start of week 3.
