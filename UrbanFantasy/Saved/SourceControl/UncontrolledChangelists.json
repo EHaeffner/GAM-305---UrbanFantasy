@@ -6,6 +6,11 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"D:/URBANFANTASY/GAM-305---UrbanFantasy/UrbanFantasy/Content/Maps/Level.umap",
+				"D:/URBANFANTASY/GAM-305---UrbanFantasy/UrbanFantasy/Content/Characters/Enemy_CHAR/Animation/AP_EnemyAI.uasset",
+				"D:/URBANFANTASY/GAM-305---UrbanFantasy/UrbanFantasy/Content/Characters/Enemy_CHAR/MeleeEnemy_CHAR.uasset",
+				"D:/URBANFANTASY/GAM-305---UrbanFantasy/UrbanFantasy/Content/Camera/BP_CameraSwitch.uasset",
+				"D:/URBANFANTASY/GAM-305---UrbanFantasy/UrbanFantasy/Content/Characters/Enemy_CHAR/Animation/walkBlendspace1D.uasset",
+				"D:/URBANFANTASY/GAM-305---UrbanFantasy/UrbanFantasy/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
 				"C:/Users/scott/Desktop/DevProjects/GAM-305---UrbanFantasy/UrbanFantasy/Content/UIX/UI_MainMenu.umap",
 				"C:/Users/scott/Desktop/DevProjects/GAM-305---UrbanFantasy/UrbanFantasy/Content/UIX/MM_Widget.uasset",
 				"C:/Users/scott/Desktop/DevProjects/GAM-305---UrbanFantasy/UrbanFantasy/Content/UIX/GM_UI.uasset",
