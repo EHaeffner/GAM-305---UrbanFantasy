@@ -6,6 +6,13 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 <<<<<<< HEAD
+				"C:/Users/camer/OneDrive/Documents/GitHub/GAM-305---UrbanFantasy/UrbanFantasy/Content/Characters/Pickups/MasterPickupBP.uasset",
+				"C:/Users/camer/OneDrive/Documents/GitHub/GAM-305---UrbanFantasy/UrbanFantasy/Content/Characters/Pickups/PowerUpDoubleJump.uasset",
+				"C:/Users/camer/OneDrive/Documents/GitHub/GAM-305---UrbanFantasy/UrbanFantasy/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/camer/OneDrive/Documents/GitHub/GAM-305---UrbanFantasy/UrbanFantasy/Content/Characters/Pickups/Collectable2BP.uasset",
+				"C:/Users/camer/OneDrive/Documents/GitHub/GAM-305---UrbanFantasy/UrbanFantasy/Content/Characters/Pickups/Collectable1BP.uasset"
+=======
+<<<<<<< HEAD
 				"C:/Users/javc0/Documents/GitHub/GAM-305---UrbanFantasy/UrbanFantasy/Content/BP_Checkpoint.uasset",
 				"C:/Users/javc0/Documents/GitHub/GAM-305---UrbanFantasy/UrbanFantasy/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset",
 				"C:/Users/javc0/Documents/GitHub/GAM-305---UrbanFantasy/UrbanFantasy/Content/Maps/Level.umap",
@@ -29,6 +36,11 @@
 				"C:/Users/javc0/Documents/GitHub/GAM-305---UrbanFantasy/UrbanFantasy/Content/CameraActor_Blueprint.uasset"
 =======
 				"D:/URBANFANTASY/GAM-305---UrbanFantasy/UrbanFantasy/Content/Maps/Level.umap",
+				"D:/URBANFANTASY/GAM-305---UrbanFantasy/UrbanFantasy/Content/Characters/Enemy_CHAR/Animation/AP_EnemyAI.uasset",
+				"D:/URBANFANTASY/GAM-305---UrbanFantasy/UrbanFantasy/Content/Characters/Enemy_CHAR/MeleeEnemy_CHAR.uasset",
+				"D:/URBANFANTASY/GAM-305---UrbanFantasy/UrbanFantasy/Content/Camera/BP_CameraSwitch.uasset",
+				"D:/URBANFANTASY/GAM-305---UrbanFantasy/UrbanFantasy/Content/Characters/Enemy_CHAR/Animation/walkBlendspace1D.uasset",
+				"D:/URBANFANTASY/GAM-305---UrbanFantasy/UrbanFantasy/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
 				"C:/Users/scott/Desktop/DevProjects/GAM-305---UrbanFantasy/UrbanFantasy/Content/UIX/UI_MainMenu.umap",
 				"C:/Users/scott/Desktop/DevProjects/GAM-305---UrbanFantasy/UrbanFantasy/Content/UIX/MM_Widget.uasset",
 				"C:/Users/scott/Desktop/DevProjects/GAM-305---UrbanFantasy/UrbanFantasy/Content/UIX/GM_UI.uasset",
@@ -38,6 +50,7 @@
 				"C:/Users/scott/Desktop/DevProjects/GAM-305---UrbanFantasy/UrbanFantasy/Content/Checkpoint_And_Goal/BP_Checkpoint.uasset",
 				"C:/Users/Donat/OneDrive/Documents/GitHub/GAM-305---UrbanFantasy/UrbanFantasy/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset"
 >>>>>>> 82ed57870167029a83628e030ee7d7276e192750
+>>>>>>> main
 			]
 		}
 	]
