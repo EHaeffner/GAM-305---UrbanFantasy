@@ -5,52 +5,23 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-<<<<<<< HEAD
-				"C:/Users/camer/OneDrive/Documents/GitHub/GAM-305---UrbanFantasy/UrbanFantasy/Content/Characters/Pickups/MasterPickupBP.uasset",
-				"C:/Users/camer/OneDrive/Documents/GitHub/GAM-305---UrbanFantasy/UrbanFantasy/Content/Characters/Pickups/PowerUpDoubleJump.uasset",
-				"C:/Users/camer/OneDrive/Documents/GitHub/GAM-305---UrbanFantasy/UrbanFantasy/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
-				"C:/Users/camer/OneDrive/Documents/GitHub/GAM-305---UrbanFantasy/UrbanFantasy/Content/Characters/Pickups/Collectable2BP.uasset",
-				"C:/Users/camer/OneDrive/Documents/GitHub/GAM-305---UrbanFantasy/UrbanFantasy/Content/Characters/Pickups/Collectable1BP.uasset"
-=======
-<<<<<<< HEAD
-				"C:/Users/javc0/Documents/GitHub/GAM-305---UrbanFantasy/UrbanFantasy/Content/BP_Checkpoint.uasset",
-				"C:/Users/javc0/Documents/GitHub/GAM-305---UrbanFantasy/UrbanFantasy/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset",
-				"C:/Users/javc0/Documents/GitHub/GAM-305---UrbanFantasy/UrbanFantasy/Content/Maps/Level.umap",
-				"C:/Users/javc0/Documents/GitHub/GAM-305---UrbanFantasy/UrbanFantasy/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
-				"C:/Users/javc0/Documents/GitHub/GAM-305---UrbanFantasy/UrbanFantasy/Content/Maps/_GENERATED/javc0/Box_066EB44A.uasset",
-				"C:/Users/javc0/Documents/GitHub/GAM-305---UrbanFantasy/UrbanFantasy/Content/Maps/_GENERATED/javc0/Box_700F9EAB.uasset",
-				"C:/Users/javc0/Documents/GitHub/GAM-305---UrbanFantasy/UrbanFantasy/Content/Camera/CameraActor_Blueprint.uasset",
-				"C:/Users/javc0/Documents/GitHub/GAM-305---UrbanFantasy/UrbanFantasy/Content/Camera/BP_CameraSwitch.uasset",
-				"C:/Users/javc0/Documents/GitHub/GAM-305---UrbanFantasy/UrbanFantasy/Content/Checkpoint_And_Goal/BP_Checkpoint.uasset",
-				"C:/Users/javc0/Documents/GitHub/GAM-305---UrbanFantasy/UrbanFantasy/Content/Checkpoint_And_Goal/BP_Goal.uasset",
-				"C:/Users/javc0/Documents/GitHub/GAM-305---UrbanFantasy/UrbanFantasy/Content/Assets/Door_BP.uasset",
-				"C:/Users/javc0/Documents/GitHub/GAM-305---UrbanFantasy/UrbanFantasy/Content/Maps/_GENERATED/javc0/Box_64DDBB3C.uasset",
-				"C:/Users/javc0/Documents/GitHub/GAM-305---UrbanFantasy/UrbanFantasy/Content/Maps/_GENERATED/javc0/Box_F24FC74F.uasset",
-				"C:/Users/javc0/Documents/GitHub/GAM-305---UrbanFantasy/UrbanFantasy/Content/Maps/_GENERATED/javc0/Box_E838F493.uasset",
-				"C:/Users/javc0/Documents/GitHub/GAM-305---UrbanFantasy/UrbanFantasy/Content/Maps/_GENERATED/javc0/Box_9B453269.uasset",
-				"C:/Users/javc0/Documents/GitHub/GAM-305---UrbanFantasy/UrbanFantasy/Content/Maps/_GENERATED/javc0/Box_51E78341.uasset",
-				"C:/Users/javc0/Documents/GitHub/GAM-305---UrbanFantasy/UrbanFantasy/Content/Assets/MovingPlatform_BP.uasset",
-				"C:/Users/javc0/Documents/GitHub/GAM-305---UrbanFantasy/UrbanFantasy/Content/Checkpoint_And_Goal/BP_Key.uasset",
-				"C:/Users/javc0/Documents/GitHub/GAM-305---UrbanFantasy/UrbanFantasy/Content/StarterContent/Audio/Untitled_video_-_Made_with_Clipchamp__1_.uasset",
-				"C:/Users/javc0/Documents/GitHub/GAM-305---UrbanFantasy/UrbanFantasy/Content/StarterContent/Audio/Untitled_video_-_Made_with_Clipchamp__1__Cue.uasset",
-				"C:/Users/javc0/Documents/GitHub/GAM-305---UrbanFantasy/UrbanFantasy/Content/CameraActor_Blueprint.uasset"
-=======
-				"D:/URBANFANTASY/GAM-305---UrbanFantasy/UrbanFantasy/Content/Maps/Level.umap",
-				"D:/URBANFANTASY/GAM-305---UrbanFantasy/UrbanFantasy/Content/Characters/Enemy_CHAR/Animation/AP_EnemyAI.uasset",
-				"D:/URBANFANTASY/GAM-305---UrbanFantasy/UrbanFantasy/Content/Characters/Enemy_CHAR/MeleeEnemy_CHAR.uasset",
-				"D:/URBANFANTASY/GAM-305---UrbanFantasy/UrbanFantasy/Content/Camera/BP_CameraSwitch.uasset",
-				"D:/URBANFANTASY/GAM-305---UrbanFantasy/UrbanFantasy/Content/Characters/Enemy_CHAR/Animation/walkBlendspace1D.uasset",
-				"D:/URBANFANTASY/GAM-305---UrbanFantasy/UrbanFantasy/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
-				"C:/Users/scott/Desktop/DevProjects/GAM-305---UrbanFantasy/UrbanFantasy/Content/UIX/UI_MainMenu.umap",
-				"C:/Users/scott/Desktop/DevProjects/GAM-305---UrbanFantasy/UrbanFantasy/Content/UIX/MM_Widget.uasset",
-				"C:/Users/scott/Desktop/DevProjects/GAM-305---UrbanFantasy/UrbanFantasy/Content/UIX/GM_UI.uasset",
-				"C:/Users/scott/Desktop/DevProjects/GAM-305---UrbanFantasy/UrbanFantasy/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset",
-				"C:/Users/scott/Desktop/DevProjects/GAM-305---UrbanFantasy/UrbanFantasy/Content/UIX/UI_Player.uasset",
-				"C:/Users/scott/Desktop/DevProjects/GAM-305---UrbanFantasy/UrbanFantasy/Content/Blueprints/NewHUD.uasset",
-				"C:/Users/scott/Desktop/DevProjects/GAM-305---UrbanFantasy/UrbanFantasy/Content/Checkpoint_And_Goal/BP_Checkpoint.uasset",
-				"C:/Users/Donat/OneDrive/Documents/GitHub/GAM-305---UrbanFantasy/UrbanFantasy/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset"
->>>>>>> 82ed57870167029a83628e030ee7d7276e192750
->>>>>>> main
+				"C:/Users/Donat/OneDrive/Documents/GitHub/GAM-305---UrbanFantasy/UrbanFantasy/Content/Characters/Enemy_CHAR/MeleeEnemy_CHAR.uasset",
+				"C:/Users/Donat/OneDrive/Documents/GitHub/GAM-305---UrbanFantasy/UrbanFantasy/Content/Characters/Mannequins/Animations/Manny/Imported_Animations/AM_Punch_Standard.uasset",
+				"C:/Users/Donat/OneDrive/Documents/GitHub/GAM-305---UrbanFantasy/UrbanFantasy/Content/Characters/Mannequins/Animations/Manny/AM_Punch_Standard.uasset",
+				"C:/Users/Donat/OneDrive/Documents/GitHub/GAM-305---UrbanFantasy/UrbanFantasy/Content/Characters/Mannequins/Animations/Manny/Imported_Animations/QuickPunching_UE.uasset",
+				"C:/Users/Donat/OneDrive/Documents/GitHub/GAM-305---UrbanFantasy/UrbanFantasy/Content/Characters/Mannequins/Animations/Manny/QuickPunching_UE.uasset",
+				"C:/Users/Donat/OneDrive/Documents/GitHub/GAM-305---UrbanFantasy/UrbanFantasy/Content/Assets/Shield/EnergyShield.uasset",
+				"C:/Users/Donat/OneDrive/Documents/GitHub/GAM-305---UrbanFantasy/UrbanFantasy/Content/Assets/Shield/EnergyShieldBase.uasset",
+				"C:/Users/Donat/OneDrive/Documents/GitHub/GAM-305---UrbanFantasy/UrbanFantasy/Content/Assets/Shield/BP_EnergyShield.uasset",
+				"C:/Users/Donat/OneDrive/Documents/GitHub/GAM-305---UrbanFantasy/UrbanFantasy/Content/Characters/Mannequins/Meshes/SKM_Quinn_Simple.uasset",
+				"C:/Users/Donat/OneDrive/Documents/GitHub/GAM-305---UrbanFantasy/UrbanFantasy/Content/ThirdPerson/Blueprints/AnimNS_HitDetection.uasset",
+				"C:/Users/Donat/OneDrive/Documents/GitHub/GAM-305---UrbanFantasy/UrbanFantasy/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/Donat/OneDrive/Documents/GitHub/GAM-305---UrbanFantasy/UrbanFantasy/Content/Characters/Mannequins/Meshes/SK_Mannequin.uasset",
+				"C:/Users/Donat/OneDrive/Documents/GitHub/GAM-305---UrbanFantasy/UrbanFantasy/Content/Characters/Mannequins/Animations/Manny/Imported_Animations/AM_ShieldIdle.uasset",
+				"C:/Users/Donat/OneDrive/Documents/GitHub/GAM-305---UrbanFantasy/UrbanFantasy/Content/Characters/Mannequins/Animations/Manny/Imported_Animations/SwordAndShieldBlock_UE.uasset",
+				"C:/Users/Donat/OneDrive/Documents/GitHub/GAM-305---UrbanFantasy/UrbanFantasy/Content/Characters/Mannequins/Animations/Manny/Imported_Animations/AM_ShieldUp.uasset",
+				"C:/Users/Donat/OneDrive/Documents/GitHub/GAM-305---UrbanFantasy/UrbanFantasy/Content/Characters/Mannequins/Animations/Manny/Imported_Animations/SwordAndShieldBlockIdle_UE.uasset",
+				"C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Interchange/Assets/Content/gltf/M_Default.uasset"
 			]
 		}
 	]
