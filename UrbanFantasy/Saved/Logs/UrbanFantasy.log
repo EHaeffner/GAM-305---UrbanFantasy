@@ -1013,3 +1013,23 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.02.16-00.26.31:202][  0]LogShaderCompilers: Display: Using Local Shader Compiler with 5 workers.
 [2025.02.16-00.26.31:535][  0]LogShaderCompilers: Display: Compiling shader autogen file: ../../../../../URBANFANTASY/GAM-305---UrbanFantasy/UrbanFantasy/Intermediate/ShaderAutogen/PCD3D_SM6/AutogenShaderHeaders.ush
 [2025.02.16-00.26.31:575][  0]LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2025.02.16-00.27.13:732][  0]LogTurnkeySupport: Completed SDK detection: ExitCode = 0
+[2025.02.16-00.27.25:745][  0]LogSlate: Using FreeType 2.10.0
+[2025.02.16-00.27.27:137][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2025.02.16-00.27.43:704][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Plugins/Developer/PlasticSourceControl/Resources/Icon128.png' error.
+[2025.02.16-00.27.43:704][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Plugins/Developer/PlasticSourceControl/Resources/Icon128.png
+[2025.02.16-00.27.44:940][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Platforms/VisionOS/Content/Editor/Slate/Launcher/Platform_VisionOS_24x.png' error.
+[2025.02.16-00.27.44:940][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Platforms/VisionOS/Content/Editor/Slate/Launcher/Platform_VisionOS_24x.png
+[2025.02.16-00.27.44:940][  0]LogStreaming: Warning: Failed to read file '../../../Engine/Platforms/VisionOS/Content/Editor/Slate/Launcher/Platform_VisionOS_128x.png' error.
+[2025.02.16-00.27.44:940][  0]LogSlate: Could not find file for Slate resource: ../../../Engine/Platforms/VisionOS/Content/Editor/Slate/Launcher/Platform_VisionOS_128x.png
+[2025.02.16-00.27.46:006][  0]LogAssetRegistry: FAssetRegistry took 0.0337 seconds to start up
+[2025.02.16-00.27.46:339][  0]LogAssetRegistry: Display: AssetDataGatherer spent 0.000s loading caches ../../../../../URBANFANTASY/GAM-305---UrbanFantasy/UrbanFantasy/Intermediate/CachedAssetRegistry_*.bin.
+[2025.02.16-00.27.46:739][  0]LogEditorDomain: Display: EditorDomain is Disabled
+[2025.02.16-00.28.00:193][  0]LogStreaming: Display: FlushAsyncLoading(1): 1 QueuedPackages, 0 AsyncPackages
+[2025.02.16-00.28.03:460][  0]LogTextureEncodingSettings: Display: Texture Encode Speed: FinalIfAvailable (editor).
+[2025.02.16-00.28.03:460][  0]LogTextureEncodingSettings: Display: Oodle Texture Encode Speed settings: Fast: RDO Off Lambda=0, Effort=Normal Final: RDO Off Lambda=0, Effort=Normal
+[2025.02.16-00.28.03:460][  0]LogTextureEncodingSettings: Display: Shared linear texture encoding: Disabled
+[2025.02.16-00.28.03:493][  0]LogDeviceProfileManager: Display: Deviceprofile LinuxArm64Editor not found.
+[2025.02.16-00.28.03:493][  0]LogDeviceProfileManager: Display: Deviceprofile LinuxArm64 not found.
+[2025.02.16-00.28.03:665][  0]LogDeviceProfileManager: Active device profile: [00000A85A29B5E00][00000A85A2E9E000 66] WindowsEditor
+[2025.02.16-00.28.03:666][  0]LogCsvProfiler: Display: Metadata set : deviceprofile="WindowsEditor"
