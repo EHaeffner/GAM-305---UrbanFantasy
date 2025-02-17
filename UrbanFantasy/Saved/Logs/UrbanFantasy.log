@@ -1,5 +1,6 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 <<<<<<< HEAD
 ﻿Log file open, 02/16/25 23:15:26
 =======
@@ -20,6 +21,9 @@
 >>>>>>> main
 >>>>>>> f31d9878de669b3236c2383bf5082b84fcd17b07
 >>>>>>> main
+=======
+﻿Log file open, 02/15/25 18:24:36
+>>>>>>> Stashed changes
 LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
 LogWindows: File 'aqProf.dll' does not exist
 LogProfilingDebugging: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
@@ -27,6 +31,7 @@ LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
 LogWindows: File 'VtuneApi.dll' does not exist
 LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
 LogWindows: File 'VtuneApi32e.dll' does not exist
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< HEAD
@@ -49,6 +54,9 @@ LogWindows: Started CrashReportClient (pid=4980)
 >>>>>>> main
 >>>>>>> f31d9878de669b3236c2383bf5082b84fcd17b07
 >>>>>>> main
+=======
+LogWindows: Started CrashReportClient (pid=25300)
+>>>>>>> Stashed changes
 LogWindows: Custom abort handler registered for crash reporting.
 LogInit: Display: Running engine for game: UrbanFantasy
 LogCore: UTS: Unreal Trace Server launched successfully
@@ -60,7 +68,10 @@ LogCsvProfiler: Display: Metadata set : platform="Windows"
 LogCsvProfiler: Display: Metadata set : config="Development"
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 <<<<<<< HEAD
+=======
+>>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
 =======
@@ -69,6 +80,7 @@ LogCsvProfiler: Display: Metadata set : buildversion="++UE5+Release-5.5-CL-38445
 LogCsvProfiler: Display: Metadata set : engineversion="5.5.1-38445549+++UE5+Release-5.5"
 LogCsvProfiler: Display: Metadata set : os="Windows 11 (23H2) [10.0.22631.4830] "
 LogCsvProfiler: Display: Metadata set : cpu="GenuineIntel|Intel(R) Core(TM) i7-9700K CPU @ 3.60GHz"
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 =======
@@ -90,10 +102,13 @@ LogCsvProfiler: Display: Metadata set : cpu="AuthenticAMD|AMD Ryzen 9 7950X3D 16
 >>>>>>> main
 >>>>>>> f31d9878de669b3236c2383bf5082b84fcd17b07
 >>>>>>> main
+=======
+>>>>>>> Stashed changes
 LogCsvProfiler: Display: Metadata set : pgoenabled="0"
 LogCsvProfiler: Display: Metadata set : pgoprofilingenabled="0"
 LogCsvProfiler: Display: Metadata set : ltoenabled="0"
 LogCsvProfiler: Display: Metadata set : asan="0"
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< HEAD
@@ -133,10 +148,17 @@ LogStats: Stats thread started at 1.132310
 >>>>>>> main
 >>>>>>> f31d9878de669b3236c2383bf5082b84fcd17b07
 >>>>>>> main
+=======
+LogCsvProfiler: Display: Metadata set : commandline="" D:\URBANFANTASY\GAM-305---UrbanFantasy\UrbanFantasy\UrbanFantasy.uproject""
+LogCsvProfiler: Display: Metadata set : loginid="85fb8b974e0fb39913b5cebcf1a4df92"
+LogCsvProfiler: Display: Metadata set : llm="0"
+LogStats: Stats thread started at 23.066672
+>>>>>>> Stashed changes
 LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetActorFactory id: 0
 LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetSubObjectFactory id: 1
 LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -6:00, Platform Override: ''
 LogInit: Session CrashGUID >====================================================
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< HEAD
@@ -188,6 +210,21 @@ LogConfig: No local boot hotfix file found at: [../../../../../../Users/scott/De
 >>>>>>> main
 >>>>>>> f31d9878de669b3236c2383bf5082b84fcd17b07
 >>>>>>> main
+=======
+         Session CrashGUID >   UECC-Windows-518B1E854471756EC955A297AAD3EA39
+         Session CrashGUID >====================================================
+LogConfig: No local boot hotfix file found at: [../../../../../URBANFANTASY/GAM-305---UrbanFantasy/UrbanFantasy/Saved/PersistentDownloadDir/HotfixForNextBoot.txt]
+LogConfig: Display: Loading Mac ini files took 0.09 seconds
+LogConfig: Display: Loading Linux ini files took 0.09 seconds
+LogConfig: Display: Loading Android ini files took 0.12 seconds
+LogConfig: Display: Loading IOS ini files took 0.12 seconds
+LogConfig: Display: Loading LinuxArm64 ini files took 0.12 seconds
+LogConfig: Display: Loading Unix ini files took 0.05 seconds
+LogConfig: Display: Loading TVOS ini files took 0.06 seconds
+LogConfig: Display: Loading VulkanPC ini files took 0.03 seconds
+LogConfig: Display: Loading Windows ini files took 0.04 seconds
+LogConfig: Display: Loading VisionOS ini files took 0.18 seconds
+>>>>>>> Stashed changes
 LogAudio: Display: Pre-Initializing Audio Device Manager...
 LogAudio: Display: AudioInfo: 'OPUS' Registered
 LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
@@ -208,6 +245,7 @@ LogAudio: Display: AudioInfo: 'BINKA' Registered
 LogAudio: Display: AudioInfo: 'RADA' Registered
 LogAudio: Display: Audio Device Manager Pre-Initialized
 LogPluginManager: Looking for build plugins target receipt
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< HEAD
@@ -262,6 +300,13 @@ LogPluginManager: Unable to find target receipt in path: ../../../../../../Users
 >>>>>>> main
 >>>>>>> f31d9878de669b3236c2383bf5082b84fcd17b07
 >>>>>>> main
+=======
+LogPluginManager: Unable to find target receipt in path: ../../../../../URBANFANTASY/GAM-305---UrbanFantasy/UrbanFantasy/Binaries/Win64/*.target
+LogAssetRegistry: Display: Asset registry cache read as 38.5 MiB from ../../../../../URBANFANTASY/GAM-305---UrbanFantasy/UrbanFantasy/Intermediate/CachedAssetRegistry_0.bin
+LogPluginManager: Found matching target receipt: ../../../Engine/Binaries/Win64/UnrealEditor.target
+LogPluginManager: Looking for enabled plugins target receipt
+LogPluginManager: Unable to find target receipt in path: ../../../../../URBANFANTASY/GAM-305---UrbanFantasy/UrbanFantasy/Binaries/Win64/*.target
+>>>>>>> Stashed changes
 LogPluginManager: Found matching target receipt: ../../../Engine/Binaries/Win64/UnrealEditor.target
 LogPluginManager: Mounting Engine plugin Bridge
 LogPluginManager: Mounting Engine plugin ChaosCloth
@@ -278,8 +323,11 @@ LogPluginManager: Mounting Engine plugin WorldMetrics
 LogPluginManager: Mounting Engine plugin XGEController
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 <<<<<<< HEAD
 <<<<<<< HEAD
+=======
+>>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
 =======
@@ -336,6 +384,7 @@ LogPluginManager: Mounting Engine plugin OnlineBase
 LogPluginManager: Mounting Engine plugin OnlineServices
 LogPluginManager: Mounting Engine plugin OnlineSubsystem
 LogPluginManager: Mounting Engine plugin OnlineSubsystemNull
+<<<<<<< Updated upstream
 =======
 LogPluginManager: Mounting Engine plugin OodleNetwork
 >>>>>>> main
@@ -344,10 +393,18 @@ LogPluginManager: Mounting Engine plugin GLTFExporter
 LogPluginManager: Mounting Engine plugin VariantManager
 LogPluginManager: Mounting Engine plugin VariantManagerContent
 <<<<<<< HEAD
+=======
+LogPluginManager: Mounting Engine plugin DatasmithContent
+LogPluginManager: Mounting Engine plugin OnlineSubsystemUtils
+LogPluginManager: Mounting Engine plugin GLTFExporter
+LogPluginManager: Mounting Engine plugin VariantManager
+LogPluginManager: Mounting Engine plugin VariantManagerContent
+>>>>>>> Stashed changes
 LogPluginManager: Mounting Engine plugin AdvancedRenamer
 LogPluginManager: Mounting Engine plugin AutomationUtils
 LogPluginManager: Mounting Engine plugin BackChannel
 LogPluginManager: Mounting Engine plugin ChaosCaching
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 =======
@@ -514,11 +571,19 @@ LogPluginManager: Mounting Engine plugin ChaosUserDataPT
 LogPluginManager: Mounting Engine plugin CharacterAI
 =======
 >>>>>>> f31d9878de669b3236c2383bf5082b84fcd17b07
+=======
+LogPluginManager: Mounting Engine plugin ChaosEditor
+LogPluginManager: Mounting Engine plugin ChaosNiagara
+LogPluginManager: Mounting Engine plugin ChaosSolverPlugin
+LogPluginManager: Mounting Engine plugin ChaosUserDataPT
+LogPluginManager: Mounting Engine plugin CharacterAI
+>>>>>>> Stashed changes
 LogPluginManager: Mounting Engine plugin Dataflow
 LogPluginManager: Mounting Engine plugin EditorDataStorage
 LogPluginManager: Mounting Engine plugin EditorPerformance
 LogPluginManager: Mounting Engine plugin EditorTelemetry
 LogPluginManager: Mounting Engine plugin Fracture
+<<<<<<< Updated upstream
 <<<<<<< HEAD
 =======
 =======
@@ -755,6 +820,32 @@ LogPluginManager: Mounting Engine plugin AndroidDeviceProfileSelector
 =======
 LogPluginManager: Mounting Engine plugin ActorLayerUtilities
 >>>>>>> f31d9878de669b3236c2383bf5082b84fcd17b07
+=======
+LogPluginManager: Mounting Engine plugin FullBodyIK
+LogPluginManager: Mounting Engine plugin GeometryCollectionPlugin
+LogPluginManager: Mounting Engine plugin GeometryFlow
+LogPluginManager: Mounting Engine plugin LocalizableMessage
+LogPluginManager: Mounting Engine plugin MeshModelingToolsetExp
+LogPluginManager: Mounting Engine plugin NFORDenoise
+LogPluginManager: Mounting Engine plugin LowLevelNetTrace
+LogPluginManager: Mounting Engine plugin PlanarCut
+LogPluginManager: Mounting Engine plugin PlatformCrypto
+LogPluginManager: Mounting Engine plugin PythonScriptPlugin
+LogPluginManager: Mounting Engine plugin SkeletalReduction
+LogPluginManager: Mounting Engine plugin StudioTelemetry
+LogPluginManager: Mounting Engine plugin ToolPresets
+LogPluginManager: Mounting Engine plugin Niagara
+LogPluginManager: Mounting Engine plugin NiagaraSimCaching
+LogPluginManager: Mounting Engine plugin AlembicImporter
+LogPluginManager: Mounting Engine plugin InterchangeAssets
+LogPluginManager: Mounting Engine plugin InterchangeEditor
+LogPluginManager: Mounting Engine plugin Interchange
+LogPluginManager: Mounting Engine plugin CameraShakePreviewer
+LogPluginManager: Mounting Engine plugin EngineCameras
+LogPluginManager: Mounting Engine plugin GameplayCameras
+LogPluginManager: Mounting Engine plugin LauncherChunkInstaller
+LogPluginManager: Mounting Engine plugin ActorLayerUtilities
+>>>>>>> Stashed changes
 LogPluginManager: Mounting Engine plugin AndroidFileServer
 LogPluginManager: Mounting Engine plugin AndroidMoviePlayer
 LogPluginManager: Mounting Engine plugin AndroidPermission
@@ -777,6 +868,7 @@ LogPluginManager: Mounting Engine plugin ComputeFramework
 LogPluginManager: Mounting Engine plugin CustomMeshComponent
 LogPluginManager: Mounting Engine plugin ExampleDeviceProfileSelector
 LogPluginManager: Mounting Engine plugin GeometryCache
+<<<<<<< Updated upstream
 <<<<<<< HEAD
 LogPluginManager: Mounting Engine plugin GoogleCloudMessaging
 LogPluginManager: Mounting Engine plugin GooglePAD
@@ -788,6 +880,12 @@ LogPluginManager: Mounting Engine plugin GooglePAD
 LogPluginManager: Mounting Engine plugin HairStrands
 LogPluginManager: Mounting Engine plugin AudioSynesthesia
 >>>>>>> f31d9878de669b3236c2383bf5082b84fcd17b07
+=======
+LogPluginManager: Mounting Engine plugin GeometryProcessing
+LogPluginManager: Mounting Engine plugin GooglePAD
+LogPluginManager: Mounting Engine plugin HairStrands
+LogPluginManager: Mounting Engine plugin AndroidDeviceProfileSelector
+>>>>>>> Stashed changes
 LogPluginManager: Mounting Engine plugin InputDebugging
 LogPluginManager: Mounting Engine plugin IOSDeviceProfileSelector
 LogPluginManager: Mounting Engine plugin LinuxDeviceProfileSelector
@@ -809,7 +907,7 @@ LogPluginManager: Mounting Engine plugin ProceduralMeshComponent
 LogPluginManager: Mounting Engine plugin ResonanceAudio
 >>>>>>> f31d9878de669b3236c2383bf5082b84fcd17b07
 LogPluginManager: Mounting Engine plugin RigVM
-LogPluginManager: Mounting Engine plugin SignificanceManager
+LogPluginManager: Mounting Engine plugin GoogleCloudMessaging
 LogPluginManager: Mounting Engine plugin SoundFields
 LogPluginManager: Mounting Engine plugin StateTree
 <<<<<<< HEAD
@@ -821,6 +919,7 @@ LogPluginManager: Mounting Engine plugin WaveTable
 LogPluginManager: Mounting Engine plugin WebMMoviePlayer
 LogPluginManager: Mounting Engine plugin WindowsDeviceProfileSelector
 LogPluginManager: Mounting Engine plugin WindowsMoviePlayer
+<<<<<<< Updated upstream
 <<<<<<< HEAD
 LogPluginManager: Mounting Engine plugin InterchangeTests
 LogPluginManager: Mounting Engine plugin Synthesis
@@ -925,6 +1024,57 @@ LogPluginManager: Mounting Engine plugin SkeletalMeshModelingTools
 LogPluginManager: Mounting Engine plugin ConcertMain
 >>>>>>> main
 >>>>>>> f31d9878de669b3236c2383bf5082b84fcd17b07
+=======
+LogPluginManager: Mounting Engine plugin SignificanceManager
+LogPluginManager: Mounting Engine plugin UdpMessaging
+LogPluginManager: Mounting Engine plugin TcpMessaging
+LogPluginManager: Mounting Engine plugin ActorSequence
+LogPluginManager: Mounting Engine plugin LevelSequenceEditor
+LogPluginManager: Mounting Engine plugin SequencerScripting
+LogPluginManager: Mounting Engine plugin TemplateSequence
+LogPluginManager: Mounting Engine plugin InterchangeTests
+LogPluginManager: Mounting Engine plugin Paper2D
+LogPluginManager: Mounting Engine plugin AISupport
+LogPluginManager: Mounting Engine plugin Takes
+LogPluginManager: Mounting Engine plugin OodleNetwork
+LogPluginManager: Mounting Engine plugin AnimationSharing
+LogPluginManager: Mounting Engine plugin CLionSourceCodeAccess
+LogPluginManager: Mounting Engine plugin DumpGPUServices
+LogPluginManager: Mounting Engine plugin EnvironmentQueryEditor
+LogPluginManager: Mounting Engine plugin GitSourceControl
+LogPluginManager: Mounting Engine plugin N10XSourceCodeAccess
+LogPluginManager: Mounting Engine plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting Engine plugin PerforceSourceControl
+LogPluginManager: Mounting Engine plugin PixWinPlugin
+LogPluginManager: Mounting Engine plugin PlasticSourceControl
+LogPluginManager: Mounting Engine plugin PluginUtils
+LogPluginManager: Mounting Engine plugin PropertyAccessNode
+LogPluginManager: Mounting Engine plugin RenderDocPlugin
+LogPluginManager: Mounting Engine plugin RiderSourceCodeAccess
+LogPluginManager: Mounting Engine plugin SubversionSourceControl
+LogPluginManager: Mounting Engine plugin TextureFormatOodle
+LogPluginManager: Mounting Engine plugin UObjectPlugin
+LogPluginManager: Mounting Engine plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting Engine plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting Engine plugin NullSourceCodeAccess
+LogPluginManager: Mounting Engine plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin OnlineSubsystemIOS
+LogPluginManager: Mounting Engine plugin SkeletalMeshModelingTools
+LogPluginManager: Mounting Engine plugin MetaHumanSDK
+LogPluginManager: Mounting Engine plugin SQLiteCore
+LogPluginManager: Mounting Engine plugin XInputDevice
+LogPluginManager: Mounting Engine plugin LightMixer
+LogPluginManager: Mounting Engine plugin ObjectMixer
+LogPluginManager: Mounting Engine plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting Engine plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting Engine plugin PortableObjectFileDataSource
+LogPluginManager: Mounting Engine plugin BaseCharacterFXEditor
+LogPluginManager: Mounting Engine plugin ConcertMain
+LogPluginManager: Mounting Engine plugin HoldoutComposite
+>>>>>>> Stashed changes
 LogPluginManager: Mounting Engine plugin ConcertSyncClient
 <<<<<<< HEAD
 =======
@@ -973,6 +1123,7 @@ SourceControl: Revision control is disabled
 SourceControl: Revision control is disabled
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 <<<<<<< HEAD
 =======
 <<<<<<< HEAD
@@ -995,6 +1146,8 @@ RenderDocPlugin: Display: RenderDoc plugin will not be loaded. Use '-AttachRende
 =======
 >>>>>>> main
 >>>>>>> main
+=======
+>>>>>>> Stashed changes
 LogEOSSDK: Initializing EOSSDK Version:1.16.4-36651368
 LogInit: Using libcurl 8.4.0
 LogInit:  - built for Windows
@@ -1019,6 +1172,7 @@ LogInit: Creating http thread with maximum 2147483647 concurrent requests
 LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
 LogOnline: OSS: Created online subsystem instance for: NULL
 LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for type [NULL]
+<<<<<<< Updated upstream
 <<<<<<< HEAD
 LogNFORDenoise: NFORDenoise function starting up
 LogStudioTelemetry: Display: Starting StudioTelemetry Module
@@ -1067,6 +1221,8 @@ LogInit: MachineId=85fb8b974e0fb39913b5cebcf1a4df92
 =======
 LogInit: MachineId=08a4ecae41f4fa0560a57a8496fc2630
 =======
+=======
+>>>>>>> Stashed changes
 LogNFORDenoise: NFORDenoise function starting up
 LogStudioTelemetry: Display: Starting StudioTelemetry Module
 LogStudioTelemetry: Started StudioTelemetry Session
@@ -1076,16 +1232,21 @@ PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is
 LogConfig: Applying CVar settings from Section [/Script/RenderDocPlugin.RenderDocPluginSettings] File [Engine]
 RenderDocPlugin: Display: RenderDoc plugin will not be loaded. Use '-AttachRenderDoc' on the cmd line or enable 'renderdoc.AutoAttach' in the plugin settings.
 LogInit: ExecutableName: UnrealEditor.exe
-LogInit: Build: ++UE5+Release-5.5-CL-39772772
+LogInit: Build: ++UE5+Release-5.5-CL-38445549
 LogInit: Platform=WindowsEditor
+<<<<<<< Updated upstream
 LogInit: MachineId=2652c8604ecb676b59b09e928055b164
 >>>>>>> main
 >>>>>>> f31d9878de669b3236c2383bf5082b84fcd17b07
 >>>>>>> main
+=======
+LogInit: MachineId=85fb8b974e0fb39913b5cebcf1a4df92
+>>>>>>> Stashed changes
 LogInit: DeviceId=
 LogInit: Engine Version: 5.5.1-38445549+++UE5+Release-5.5
 LogInit: Compatible Engine Version: 5.5.0-37670630+++UE5+Release-5.5
 LogInit: Net CL: 37670630
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< HEAD
@@ -1111,6 +1272,10 @@ LogInit: Compiled (64-bit): Nov 28 2024 00:55:04
 =======
 >>>>>>> f31d9878de669b3236c2383bf5082b84fcd17b07
 >>>>>>> main
+=======
+LogInit: OS: Windows 11 (23H2) [10.0.22631.4830] (), CPU: Intel(R) Core(TM) i7-9700K CPU @ 3.60GHz, GPU: NVIDIA GeForce RTX 2060
+LogInit: Compiled (64-bit): Nov 28 2024 00:55:04
+>>>>>>> Stashed changes
 LogInit: Architecture: x64
 LogInit: Compiled with Visual C++: 19.38.33130.00
 LogInit: Build Configuration: Development
@@ -1157,6 +1322,7 @@ LogDevObjectVersion:   UE5-PrivateFrosty (59DA5D52-1232-4948-B878-597870B8E98B):
 LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
 LogDevObjectVersion:   Dev-NaniteResearch (30D58BE3-95EA-4282-A6E3-B159D8EBB06A): 1
 LogDevObjectVersion:   Dev-ComputeFramework (6304A3E7-0059-4F59-8CFC-21BD7721FD4E): 0
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< HEAD
@@ -1521,10 +1687,19 @@ LogConfig: Branch 'ChaosCloth' had been unloaded. Reloading on-demand took 0.09m
 LogConfig: Branch 'CmdLinkServer' had been unloaded. Reloading on-demand took 0.14ms
 LogConfig: Branch 'FastBuildController' had been unloaded. Reloading on-demand took 0.12ms
 LogConfig: Branch 'MeshPainting' had been unloaded. Reloading on-demand took 0.09ms
+=======
+LogConfig: Branch 'EditorLayout' had been unloaded. Reloading on-demand took 0.85ms
+LogConfig: Branch 'Bridge' had been unloaded. Reloading on-demand took 0.10ms
+LogConfig: Branch 'ChaosCloth' had been unloaded. Reloading on-demand took 0.09ms
+LogConfig: Branch 'CmdLinkServer' had been unloaded. Reloading on-demand took 0.09ms
+LogConfig: Branch 'FastBuildController' had been unloaded. Reloading on-demand took 0.20ms
+LogConfig: Branch 'MeshPainting' had been unloaded. Reloading on-demand took 0.10ms
+>>>>>>> Stashed changes
 LogConfig: Branch 'RenderGraphInsights' had been unloaded. Reloading on-demand took 0.09ms
 LogConfig: Branch 'UbaController' had been unloaded. Reloading on-demand took 0.09ms
 LogConfig: Branch 'WorldMetrics' had been unloaded. Reloading on-demand took 0.09ms
 LogConfig: Branch 'XGEController' had been unloaded. Reloading on-demand took 0.09ms
+<<<<<<< Updated upstream
 LogConfig: Branch 'CameraShakePreviewer' had been unloaded. Reloading on-demand took 0.09ms
 LogConfig: Branch 'OodleNetwork' had been unloaded. Reloading on-demand took 0.09ms
 LogConfig: Branch 'EngineCameras' had been unloaded. Reloading on-demand took 0.09ms
@@ -1872,6 +2047,170 @@ LogConfig: Branch 'ConcertSyncClient' had been unloaded. Reloading on-demand too
 >>>>>>> main
 >>>>>>> f31d9878de669b3236c2383bf5082b84fcd17b07
 >>>>>>> main
+=======
+LogConfig: Branch 'ACLPlugin' had been unloaded. Reloading on-demand took 0.13ms
+LogConfig: Branch 'AnimationData' had been unloaded. Reloading on-demand took 0.10ms
+LogConfig: Branch 'BlendSpaceMotionAnalysis' had been unloaded. Reloading on-demand took 0.09ms
+LogConfig: Branch 'ControlRigModules' had been unloaded. Reloading on-demand took 0.17ms
+LogConfig: Branch 'RigLogic' had been unloaded. Reloading on-demand took 0.10ms
+LogConfig: Branch 'AssetManagerEditor' had been unloaded. Reloading on-demand took 0.10ms
+LogConfig: Branch 'ControlRigSpline' had been unloaded. Reloading on-demand took 0.10ms
+LogConfig: Branch 'BlueprintHeaderView' had been unloaded. Reloading on-demand took 0.11ms
+LogConfig: Branch 'ChangelistReview' had been unloaded. Reloading on-demand took 0.09ms
+LogConfig: Branch 'ColorGrading' had been unloaded. Reloading on-demand took 0.09ms
+LogConfig: Branch 'CryptoKeys' had been unloaded. Reloading on-demand took 0.08ms
+LogConfig: Branch 'CurveEditorTools' had been unloaded. Reloading on-demand took 0.10ms
+LogConfig: Branch 'DataValidation' had been unloaded. Reloading on-demand took 0.10ms
+LogConfig: Branch 'EditorDebugTools' had been unloaded. Reloading on-demand took 0.09ms
+LogConfig: Branch 'EngineAssetDefinitions' had been unloaded. Reloading on-demand took 0.10ms
+LogConfig: Branch 'FacialAnimation' had been unloaded. Reloading on-demand took 0.10ms
+LogConfig: Branch 'GameplayTagsEditor' had been unloaded. Reloading on-demand took 0.09ms
+LogConfig: Branch 'GeometryMode' had been unloaded. Reloading on-demand took 0.12ms
+LogConfig: Branch 'MaterialAnalyzer' had been unloaded. Reloading on-demand took 0.09ms
+LogConfig: Branch 'MeshLODToolset' had been unloaded. Reloading on-demand took 0.11ms
+LogConfig: Branch 'MobileLauncherProfileWizard' had been unloaded. Reloading on-demand took 0.09ms
+LogConfig: Branch 'ModelingToolsEditorMode' had been unloaded. Reloading on-demand took 0.09ms
+LogConfig: Branch 'AnimationModifierLibrary' had been unloaded. Reloading on-demand took 0.10ms
+LogConfig: Branch 'PluginBrowser' had been unloaded. Reloading on-demand took 0.11ms
+LogConfig: Branch 'ProxyLODPlugin' had been unloaded. Reloading on-demand took 0.09ms
+LogConfig: Branch 'SequencerAnimTools' had been unloaded. Reloading on-demand took 0.09ms
+LogConfig: Branch 'SpeedTreeImporter' had been unloaded. Reloading on-demand took 0.10ms
+LogConfig: Branch 'StylusInput' had been unloaded. Reloading on-demand took 0.09ms
+LogConfig: Branch 'UMGWidgetPreview' had been unloaded. Reloading on-demand took 0.09ms
+LogConfig: Branch 'UVEditor' had been unloaded. Reloading on-demand took 0.08ms
+LogConfig: Branch 'MacGraphicsSwitching' had been unloaded. Reloading on-demand took 0.09ms
+LogConfig: Branch 'WorldPartitionHLODUtilities' had been unloaded. Reloading on-demand took 0.09ms
+LogConfig: Branch 'AndroidMedia' had been unloaded. Reloading on-demand took 0.10ms
+LogConfig: Branch 'AvfMedia' had been unloaded. Reloading on-demand took 0.09ms
+LogConfig: Branch 'ImgMedia' had been unloaded. Reloading on-demand took 0.08ms
+LogConfig: Branch 'MediaPlate' had been unloaded. Reloading on-demand took 0.09ms
+LogConfig: Branch 'MediaCompositing' had been unloaded. Reloading on-demand took 0.09ms
+LogConfig: Branch 'MediaPlayerEditor' had been unloaded. Reloading on-demand took 0.09ms
+LogConfig: Branch 'WebMMedia' had been unloaded. Reloading on-demand took 0.08ms
+LogConfig: Branch 'WmfMedia' had been unloaded. Reloading on-demand took 0.09ms
+LogConfig: Branch 'NNEDenoiser' had been unloaded. Reloading on-demand took 0.09ms
+LogConfig: Branch 'NNERuntimeORT' had been unloaded. Reloading on-demand took 0.09ms
+LogConfig: Branch 'EOSShared' had been unloaded. Reloading on-demand took 0.08ms
+LogConfig: Branch 'OnlineBase' had been unloaded. Reloading on-demand took 0.09ms
+LogConfig: Branch 'OnlineServices' had been unloaded. Reloading on-demand took 0.09ms
+LogConfig: Branch 'OnlineSubsystem' had been unloaded. Reloading on-demand took 0.09ms
+LogConfig: Branch 'OnlineSubsystemNull' had been unloaded. Reloading on-demand took 0.09ms
+LogConfig: Branch 'OnlineSubsystemUtils' had been unloaded. Reloading on-demand took 0.10ms
+LogConfig: Branch 'VariantManager' had been unloaded. Reloading on-demand took 0.09ms
+LogConfig: Branch 'AdvancedRenamer' had been unloaded. Reloading on-demand took 0.12ms
+LogConfig: Branch 'AutomationUtils' had been unloaded. Reloading on-demand took 0.14ms
+LogConfig: Branch 'BackChannel' had been unloaded. Reloading on-demand took 0.10ms
+LogConfig: Branch 'ChaosCaching' had been unloaded. Reloading on-demand took 0.10ms
+LogConfig: Branch 'ChaosEditor' had been unloaded. Reloading on-demand took 0.11ms
+LogConfig: Branch 'ChaosNiagara' had been unloaded. Reloading on-demand took 0.09ms
+LogConfig: Branch 'ChaosSolverPlugin' had been unloaded. Reloading on-demand took 0.09ms
+LogConfig: Branch 'ChaosUserDataPT' had been unloaded. Reloading on-demand took 0.09ms
+LogConfig: Branch 'CharacterAI' had been unloaded. Reloading on-demand took 0.11ms
+LogConfig: Branch 'Dataflow' had been unloaded. Reloading on-demand took 0.09ms
+LogConfig: Branch 'EditorDataStorage' had been unloaded. Reloading on-demand took 0.09ms
+LogConfig: Branch 'EditorPerformance' had been unloaded. Reloading on-demand took 0.09ms
+LogConfig: Branch 'EditorTelemetry' had been unloaded. Reloading on-demand took 0.09ms
+LogConfig: Branch 'Fracture' had been unloaded. Reloading on-demand took 0.09ms
+LogConfig: Branch 'GeometryCollectionPlugin' had been unloaded. Reloading on-demand took 0.10ms
+LogConfig: Branch 'GeometryFlow' had been unloaded. Reloading on-demand took 0.09ms
+LogConfig: Branch 'LocalizableMessage' had been unloaded. Reloading on-demand took 0.09ms
+LogConfig: Branch 'MeshModelingToolsetExp' had been unloaded. Reloading on-demand took 0.09ms
+LogConfig: Branch 'NFORDenoise' had been unloaded. Reloading on-demand took 0.09ms
+LogConfig: Branch 'LowLevelNetTrace' had been unloaded. Reloading on-demand took 0.09ms
+LogConfig: Branch 'PlanarCut' had been unloaded. Reloading on-demand took 0.09ms
+LogConfig: Branch 'PlatformCrypto' had been unloaded. Reloading on-demand took 0.10ms
+LogConfig: Branch 'PythonScriptPlugin' had been unloaded. Reloading on-demand took 0.09ms
+LogConfig: Branch 'SkeletalReduction' had been unloaded. Reloading on-demand took 0.09ms
+LogConfig: Branch 'StudioTelemetry' had been unloaded. Reloading on-demand took 0.11ms
+LogConfig: Branch 'NiagaraSimCaching' had been unloaded. Reloading on-demand took 0.13ms
+LogConfig: Branch 'AlembicImporter' had been unloaded. Reloading on-demand took 0.10ms
+LogConfig: Branch 'InterchangeEditor' had been unloaded. Reloading on-demand took 0.10ms
+LogConfig: Branch 'CameraShakePreviewer' had been unloaded. Reloading on-demand took 0.10ms
+LogConfig: Branch 'EngineCameras' had been unloaded. Reloading on-demand took 0.09ms
+LogConfig: Branch 'LauncherChunkInstaller' had been unloaded. Reloading on-demand took 0.09ms
+LogConfig: Branch 'ActorLayerUtilities' had been unloaded. Reloading on-demand took 0.09ms
+LogConfig: Branch 'AndroidFileServer' had been unloaded. Reloading on-demand took 0.09ms
+LogConfig: Branch 'AndroidMoviePlayer' had been unloaded. Reloading on-demand took 0.09ms
+LogConfig: Branch 'AndroidPermission' had been unloaded. Reloading on-demand took 0.09ms
+LogConfig: Branch 'AppleImageUtils' had been unloaded. Reloading on-demand took 0.11ms
+LogConfig: Branch 'AppleMoviePlayer' had been unloaded. Reloading on-demand took 0.09ms
+LogConfig: Branch 'ArchVisCharacter' had been unloaded. Reloading on-demand took 0.09ms
+LogConfig: Branch 'AssetTags' had been unloaded. Reloading on-demand took 0.09ms
+LogConfig: Branch 'AudioCapture' had been unloaded. Reloading on-demand took 0.09ms
+LogConfig: Branch 'AudioSynesthesia' had been unloaded. Reloading on-demand took 0.09ms
+LogConfig: Branch 'AudioWidgets' had been unloaded. Reloading on-demand took 0.09ms
+LogConfig: Branch 'CableComponent' had been unloaded. Reloading on-demand took 0.09ms
+LogConfig: Branch 'ChunkDownloader' had been unloaded. Reloading on-demand took 0.09ms
+LogConfig: Branch 'ComputeFramework' had been unloaded. Reloading on-demand took 0.09ms
+LogConfig: Branch 'CustomMeshComponent' had been unloaded. Reloading on-demand took 0.09ms
+LogConfig: Branch 'ExampleDeviceProfileSelector' had been unloaded. Reloading on-demand took 0.09ms
+LogConfig: Branch 'GeometryCache' had been unloaded. Reloading on-demand took 0.11ms
+LogConfig: Branch 'GeometryProcessing' had been unloaded. Reloading on-demand took 0.10ms
+LogConfig: Branch 'GooglePAD' had been unloaded. Reloading on-demand took 0.09ms
+LogConfig: Branch 'AndroidDeviceProfileSelector' had been unloaded. Reloading on-demand took 0.10ms
+LogConfig: Branch 'InputDebugging' had been unloaded. Reloading on-demand took 0.09ms
+LogConfig: Branch 'IOSDeviceProfileSelector' had been unloaded. Reloading on-demand took 0.09ms
+LogConfig: Branch 'LinuxDeviceProfileSelector' had been unloaded. Reloading on-demand took 0.08ms
+LogConfig: Branch 'LocationServicesBPLibrary' had been unloaded. Reloading on-demand took 0.09ms
+LogConfig: Branch 'MeshModelingToolset' had been unloaded. Reloading on-demand took 0.09ms
+LogConfig: Branch 'MobilePatchingUtils' had been unloaded. Reloading on-demand took 0.10ms
+LogConfig: Branch 'MsQuic' had been unloaded. Reloading on-demand took 0.09ms
+LogConfig: Branch 'ProceduralMeshComponent' had been unloaded. Reloading on-demand took 0.09ms
+LogConfig: Branch 'PropertyAccessEditor' had been unloaded. Reloading on-demand took 0.09ms
+LogConfig: Branch 'ResonanceAudio' had been unloaded. Reloading on-demand took 0.10ms
+LogConfig: Branch 'GoogleCloudMessaging' had been unloaded. Reloading on-demand took 0.10ms
+LogConfig: Branch 'SoundFields' had been unloaded. Reloading on-demand took 0.10ms
+LogConfig: Branch 'WaveTable' had been unloaded. Reloading on-demand took 0.10ms
+LogConfig: Branch 'WebMMoviePlayer' had been unloaded. Reloading on-demand took 0.09ms
+LogConfig: Branch 'WindowsDeviceProfileSelector' had been unloaded. Reloading on-demand took 0.09ms
+LogConfig: Branch 'WindowsMoviePlayer' had been unloaded. Reloading on-demand took 0.09ms
+LogConfig: Branch 'SignificanceManager' had been unloaded. Reloading on-demand took 0.09ms
+LogConfig: Branch 'UdpMessaging' had been unloaded. Reloading on-demand took 0.09ms
+LogConfig: Branch 'TcpMessaging' had been unloaded. Reloading on-demand took 0.11ms
+LogConfig: Branch 'ActorSequence' had been unloaded. Reloading on-demand took 0.09ms
+LogConfig: Branch 'LevelSequenceEditor' had been unloaded. Reloading on-demand took 0.08ms
+LogConfig: Branch 'SequencerScripting' had been unloaded. Reloading on-demand took 0.09ms
+LogConfig: Branch 'TemplateSequence' had been unloaded. Reloading on-demand took 0.09ms
+LogConfig: Branch 'InterchangeTests' had been unloaded. Reloading on-demand took 0.09ms
+LogConfig: Branch 'AISupport' had been unloaded. Reloading on-demand took 0.10ms
+LogConfig: Branch 'OodleNetwork' had been unloaded. Reloading on-demand took 0.09ms
+LogConfig: Branch 'AnimationSharing' had been unloaded. Reloading on-demand took 0.11ms
+LogConfig: Branch 'CLionSourceCodeAccess' had been unloaded. Reloading on-demand took 0.09ms
+LogConfig: Branch 'DumpGPUServices' had been unloaded. Reloading on-demand took 0.09ms
+LogConfig: Branch 'EnvironmentQueryEditor' had been unloaded. Reloading on-demand took 0.10ms
+LogConfig: Branch 'GitSourceControl' had been unloaded. Reloading on-demand took 0.10ms
+LogConfig: Branch 'N10XSourceCodeAccess' had been unloaded. Reloading on-demand took 0.09ms
+LogConfig: Branch 'CodeLiteSourceCodeAccess' had been unloaded. Reloading on-demand took 0.09ms
+LogConfig: Branch 'PerforceSourceControl' had been unloaded. Reloading on-demand took 0.09ms
+LogConfig: Branch 'PixWinPlugin' had been unloaded. Reloading on-demand took 0.10ms
+LogConfig: Branch 'PlasticSourceControl' had been unloaded. Reloading on-demand took 0.09ms
+LogConfig: Branch 'PluginUtils' had been unloaded. Reloading on-demand took 0.09ms
+LogConfig: Branch 'PropertyAccessNode' had been unloaded. Reloading on-demand took 0.09ms
+LogConfig: Branch 'RenderDocPlugin' had been unloaded. Reloading on-demand took 0.09ms
+LogConfig: Branch 'RiderSourceCodeAccess' had been unloaded. Reloading on-demand took 0.09ms
+LogConfig: Branch 'SubversionSourceControl' had been unloaded. Reloading on-demand took 0.09ms
+LogConfig: Branch 'TextureFormatOodle' had been unloaded. Reloading on-demand took 0.09ms
+LogConfig: Branch 'UObjectPlugin' had been unloaded. Reloading on-demand took 0.10ms
+LogConfig: Branch 'VisualStudioCodeSourceCodeAccess' had been unloaded. Reloading on-demand took 0.09ms
+LogConfig: Branch 'VisualStudioSourceCodeAccess' had been unloaded. Reloading on-demand took 0.09ms
+LogConfig: Branch 'KDevelopSourceCodeAccess' had been unloaded. Reloading on-demand took 0.09ms
+LogConfig: Branch 'NullSourceCodeAccess' had been unloaded. Reloading on-demand took 0.09ms
+LogConfig: Branch 'XCodeSourceCodeAccess' had been unloaded. Reloading on-demand took 0.09ms
+LogConfig: Branch 'OnlineSubsystemIOS' had been unloaded. Reloading on-demand took 0.09ms
+LogConfig: Branch 'SkeletalMeshModelingTools' had been unloaded. Reloading on-demand took 0.10ms
+LogConfig: Branch 'SQLiteCore' had been unloaded. Reloading on-demand took 0.10ms
+LogConfig: Branch 'XInputDevice' had been unloaded. Reloading on-demand took 0.09ms
+LogConfig: Branch 'LightMixer' had been unloaded. Reloading on-demand took 0.09ms
+LogConfig: Branch 'ObjectMixer' had been unloaded. Reloading on-demand took 0.09ms
+LogConfig: Branch 'ContentBrowserAssetDataSource' had been unloaded. Reloading on-demand took 0.09ms
+LogConfig: Branch 'ContentBrowserClassDataSource' had been unloaded. Reloading on-demand took 0.09ms
+LogConfig: Branch 'ContentBrowserFileDataSource' had been unloaded. Reloading on-demand took 0.09ms
+LogConfig: Branch 'OnlineSubsystemGooglePlay' had been unloaded. Reloading on-demand took 0.09ms
+LogConfig: Branch 'PortableObjectFileDataSource' had been unloaded. Reloading on-demand took 0.09ms
+LogConfig: Branch 'BaseCharacterFXEditor' had been unloaded. Reloading on-demand took 0.09ms
+LogConfig: Branch 'ConcertMain' had been unloaded. Reloading on-demand took 0.09ms
+LogConfig: Branch 'ConcertSyncClient' had been unloaded. Reloading on-demand took 0.09ms
+>>>>>>> Stashed changes
 LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC.
 LogStreaming: Display: AsyncLoading2 - Created: Event Driven Loader: false, Async Loading Thread: false, Async Post Load: false
 LogStreaming: Display: AsyncLoading2 - Initialized
@@ -1891,6 +2230,7 @@ LogConfig: CVar [[D3D12.Bindless.ResourceDescriptorHeapSize:32768]] deferred - d
 LogConfig: CVar [[D3D12.Bindless.SamplerDescriptorHeapSize:2048]] deferred - dummy variable created
 LogConfig: Set CVar [[r.PSOPrecache.GlobalShaders:1]]
 LogConfig: Set CVar [[r.DynamicRes.DynamicFrameTime:1]]
+<<<<<<< Updated upstream
 <<<<<<< HEAD
 [2025.02.17-02.28.01:324][  0]LogConfig: Set CVar [[r.VRS.EnableSoftware:1]]
 [2025.02.17-02.28.01:324][  0]LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
@@ -2827,6 +3167,10 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
+=======
+LogConfig: Set CVar [[r.VRS.EnableSoftware:1]]
+LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
+>>>>>>> Stashed changes
 [2025.02.16-00.25.03:062][  0]LogConfig: Set CVar [[r.VSync:0]]
 [2025.02.16-00.25.03:062][  0]LogConfig: Set CVar [[r.RHICmdBypass:0]]
 [2025.02.16-00.25.03:063][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [Engine]
@@ -3142,6 +3486,7 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.02.16-00.25.19:274][  0]LogWindowsTextInputMethodSystem: Activated input method: English (United States) - (Keyboard).
 [2025.02.16-00.25.21:440][  0]LogSlate: New Slate User Created. Platform User Id 0, User Index 0, Is Virtual User: 0
 [2025.02.16-00.25.21:456][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 [2025.02.16-00.26.16:729][  0]LogRHI: Using Default RHI: D3D12
@@ -6474,3 +6819,5 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 >>>>>>> main
 >>>>>>> f31d9878de669b3236c2383bf5082b84fcd17b07
 >>>>>>> main
+=======
+>>>>>>> Stashed changes
