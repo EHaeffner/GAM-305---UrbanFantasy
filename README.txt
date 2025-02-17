@@ -132,3 +132,20 @@ Were there any tools or techniques that you did not find helpful in the success 
 •	None of the tools or technics that we decided to use ended up being unhelpful or useless. Discord allowed us to communicate and share resources. GitHub is the basis of sharing the project and updates between us. Trello has kept our bugs and progress organized. The main reason these programs worked for us was because at least one person knew how to use these programs ahead of time and were able to effectively share the best ways to utilize them for the purposes we intended.
 Identify the completed stage of development of the intended Beta and address the project schedule to meet Final Release development deadline.
 •	We are slightly behind the intended schedule of where we wanted to be for the beta release, but we plan to get caught up by the due date on Sunday. Everyone’s schedule this week has been very hectic due to a variety of factors, but as the weekend goes on we will finish the goals and have the beta branch ready to go. Final Release will be ready on time based on our current trajectory, and we don’t see any reason we will have to change the schedule or remove any currently planned features.
+
+
+***************************************************
+*6-2 Project Log: Team Reflection and Beta Release*
+***************************************************
+
+What parts of the plan did the team perceive to go well in relation to the last stage evaluation?
+•	We have caught up with our schedule and are on track to release on time. Our communication has remained strong, even though we did cancel one of the meetings this week. Having the plan from week 3 to guide us allowed us to establish the important tasks to do earlier, so now we are in the process of cleaning up the game and making it look pretty and function properly
+What parts of the plan did the team perceive to go wrong in relation to the last stage evaluation?
+•	The UI portion of the plan fell very far behind for several days due to technical issues on one of our member’s parts. We adjusted the plan to fit around these issues and have gotten ourselves back on track.
+How were the previous evaluations integrated into this latest stage?
+•	We looked at the various bugs and technical issues that appeared during the last phases of testing and fixed as many of them as we could. We adjusted and updated our plan to fit these issues into the schedule. During the last test we also noticed we were missing some key parts of the game, so we made sure to prioritize those this week.
+What would you do differently to improve the collaboration or development process?
+•	We feel that the team collaboration has been very successful this week. Despite the many technical issues that have appeared, every team member has managed to stay caught up with their tasks. If there was one thing we could do differently, we would try to implement safety measures for if someone could not complete their work on time.
+Were there any tools or techniques that you did not find helpful in the success of your project development? Why?
+•	As with last week, the tools we have decided to use have been very useful in this online class. We have each become fluent in the various programs, such as GitHub and Discord, and recommend them to any future teams doing this.
+
