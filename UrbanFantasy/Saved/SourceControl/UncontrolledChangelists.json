@@ -5,7 +5,10 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+<<<<<<< Updated upstream
 <<<<<<< HEAD
+=======
+>>>>>>> Stashed changes
 				"D:/URBANFANTASY/GAM-305---UrbanFantasy/UrbanFantasy/Content/Characters/Enemy_CHAR/RangeEnemy_CHAR.uasset",
 				"D:/URBANFANTASY/GAM-305---UrbanFantasy/UrbanFantasy/Content/Assets/Projectile_BP.uasset",
 				"D:/URBANFANTASY/GAM-305---UrbanFantasy/UrbanFantasy/Content/Material/M_ElectricOrb.uasset",
@@ -16,11 +19,14 @@
 				"D:/URBANFANTASY/GAM-305---UrbanFantasy/UrbanFantasy/Content/Maps/Level.umap",
 				"D:/URBANFANTASY/GAM-305---UrbanFantasy/UrbanFantasy/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset",
 				"D:/URBANFANTASY/GAM-305---UrbanFantasy/UrbanFantasy/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset",
+<<<<<<< Updated upstream
 =======
 				"C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Interchange/Assets/Content/gltf/M_Default.uasset",
 				"C:/Users/scott/Desktop/DevProjects/GAM-305---UrbanFantasy/UrbanFantasy/Content/UIX/UIX_Images/RubberDuck.uasset",
 				"C:/Users/scott/Desktop/DevProjects/GAM-305---UrbanFantasy/UrbanFantasy/Content/UIX/UI_Player.uasset",
 >>>>>>> b7e09e5c97460d05a27c6546bab995b6dd8e2a75
+=======
+>>>>>>> Stashed changes
 				"C:/Users/Donat/OneDrive/Documents/GitHub/GAM-305---UrbanFantasy/UrbanFantasy/Content/Characters/Enemy_CHAR/MeleeEnemy_CHAR.uasset",
 				"C:/Users/Donat/OneDrive/Documents/GitHub/GAM-305---UrbanFantasy/UrbanFantasy/Content/Characters/Mannequins/Animations/Manny/Imported_Animations/AM_Punch_Standard.uasset",
 				"C:/Users/Donat/OneDrive/Documents/GitHub/GAM-305---UrbanFantasy/UrbanFantasy/Content/Characters/Mannequins/Animations/Manny/AM_Punch_Standard.uasset",
