@@ -5,89 +5,45 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
-				"D:/URBANFANTASY/GAM-305---UrbanFantasy/UrbanFantasy/Content/Characters/Enemy_CHAR/RangeEnemy_CHAR.uasset",
-				"D:/URBANFANTASY/GAM-305---UrbanFantasy/UrbanFantasy/Content/Assets/Projectile_BP.uasset",
-				"D:/URBANFANTASY/GAM-305---UrbanFantasy/UrbanFantasy/Content/Material/M_ElectricOrb.uasset",
-				"D:/URBANFANTASY/GAM-305---UrbanFantasy/UrbanFantasy/Content/Material/M_Vortex.uasset",
-				"D:/URBANFANTASY/GAM-305---UrbanFantasy/UrbanFantasy/Content/Material/EnemyProjectile/M_ElectricOrb.uasset",
-				"D:/URBANFANTASY/GAM-305---UrbanFantasy/UrbanFantasy/Content/Material/EnemyProjectile/M_Vortex.uasset",
-				"D:/URBANFANTASY/GAM-305---UrbanFantasy/UrbanFantasy/Content/Material/EnemyProjectile/NS_Vortex.uasset",
 				"D:/URBANFANTASY/GAM-305---UrbanFantasy/UrbanFantasy/Content/Maps/Level.umap",
-				"D:/URBANFANTASY/GAM-305---UrbanFantasy/UrbanFantasy/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset",
-				"D:/URBANFANTASY/GAM-305---UrbanFantasy/UrbanFantasy/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset",
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-=======
-				"C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Interchange/Assets/Content/gltf/M_Default.uasset",
-				"C:/Users/scott/Desktop/DevProjects/GAM-305---UrbanFantasy/UrbanFantasy/Content/UIX/UIX_Images/RubberDuck.uasset",
-				"C:/Users/scott/Desktop/DevProjects/GAM-305---UrbanFantasy/UrbanFantasy/Content/UIX/UI_Player.uasset",
->>>>>>> b7e09e5c97460d05a27c6546bab995b6dd8e2a75
-=======
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
-				"C:/Users/Donat/OneDrive/Documents/GitHub/GAM-305---UrbanFantasy/UrbanFantasy/Content/Characters/Enemy_CHAR/MeleeEnemy_CHAR.uasset",
-				"C:/Users/Donat/OneDrive/Documents/GitHub/GAM-305---UrbanFantasy/UrbanFantasy/Content/Characters/Mannequins/Animations/Manny/Imported_Animations/AM_Punch_Standard.uasset",
-				"C:/Users/Donat/OneDrive/Documents/GitHub/GAM-305---UrbanFantasy/UrbanFantasy/Content/Characters/Mannequins/Animations/Manny/AM_Punch_Standard.uasset",
-				"C:/Users/Donat/OneDrive/Documents/GitHub/GAM-305---UrbanFantasy/UrbanFantasy/Content/Characters/Mannequins/Animations/Manny/Imported_Animations/QuickPunching_UE.uasset",
-				"C:/Users/Donat/OneDrive/Documents/GitHub/GAM-305---UrbanFantasy/UrbanFantasy/Content/Characters/Mannequins/Animations/Manny/QuickPunching_UE.uasset",
-				"C:/Users/Donat/OneDrive/Documents/GitHub/GAM-305---UrbanFantasy/UrbanFantasy/Content/Assets/Shield/EnergyShield.uasset",
-				"C:/Users/Donat/OneDrive/Documents/GitHub/GAM-305---UrbanFantasy/UrbanFantasy/Content/Assets/Shield/EnergyShieldBase.uasset",
-				"C:/Users/Donat/OneDrive/Documents/GitHub/GAM-305---UrbanFantasy/UrbanFantasy/Content/Assets/Shield/BP_EnergyShield.uasset",
-=======
-				"C:/Users/Donat/OneDrive/Documents/GitHub/GAM-305---UrbanFantasy/UrbanFantasy/Content/Assets/Weapon_Pack/Materials/Weapons/M_WeaponSet_1.uasset",
-				"C:/Users/Donat/OneDrive/Documents/GitHub/GAM-305---UrbanFantasy/UrbanFantasy/Content/Assets/Weapon_Pack/Textures/Weapons/T_Weapon_Set1_Normal.uasset",
-				"C:/Users/Donat/OneDrive/Documents/GitHub/GAM-305---UrbanFantasy/UrbanFantasy/Content/Assets/Weapon_Pack/Textures/Weapons/T_Weapon_Set1_OcclusionRoughnessMetallic.uasset",
-				"C:/Users/Donat/OneDrive/Documents/GitHub/GAM-305---UrbanFantasy/UrbanFantasy/Content/Assets/Weapon_Pack/Textures/Weapons/T_Weapon_Set1_BaseColor.uasset",
-				"C:/Users/Donat/OneDrive/Documents/GitHub/GAM-305---UrbanFantasy/UrbanFantasy/Content/Assets/Sword/SwordBlade.uasset",
-				"C:/Users/Donat/OneDrive/Documents/GitHub/GAM-305---UrbanFantasy/UrbanFantasy/Content/Assets/Sword/SwordGuard.uasset",
-				"C:/Users/Donat/OneDrive/Documents/GitHub/GAM-305---UrbanFantasy/UrbanFantasy/Content/Assets/Sword/SM_Sword.uasset",
-				"C:/Users/Donat/OneDrive/Documents/GitHub/GAM-305---UrbanFantasy/UrbanFantasy/Content/Characters/Mannequins/Animations/Manny/Imported_Animations/AM_SwordSlash.uasset",
-				"C:/Users/Donat/OneDrive/Documents/GitHub/GAM-305---UrbanFantasy/UrbanFantasy/Content/Characters/Mannequins/Animations/Manny/Imported_Animations/WithdrawingSword_UE.uasset",
-				"C:/Users/Donat/OneDrive/Documents/GitHub/GAM-305---UrbanFantasy/UrbanFantasy/Content/Maps/Level.umap",
-				"C:/Users/Donat/OneDrive/Documents/GitHub/GAM-305---UrbanFantasy/UrbanFantasy/Content/Assets/Sword/BP_Sword.uasset",
-				"C:/Users/Donat/OneDrive/Documents/GitHub/GAM-305---UrbanFantasy/UrbanFantasy/Content/Characters/Mannequins/Animations/Manny/Imported_Animations/SwordAndShieldSlash_UE.uasset",
->>>>>>> main
-				"C:/Users/Donat/OneDrive/Documents/GitHub/GAM-305---UrbanFantasy/UrbanFantasy/Content/Characters/Mannequins/Meshes/SKM_Quinn_Simple.uasset",
-				"C:/Users/Donat/OneDrive/Documents/GitHub/GAM-305---UrbanFantasy/UrbanFantasy/Content/Characters/Mannequins/Animations/Manny/Imported_Animations/AM_Unsheathe.uasset",
-				"C:/Users/Donat/OneDrive/Documents/GitHub/GAM-305---UrbanFantasy/UrbanFantasy/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset",
-				"C:/Users/Donat/OneDrive/Documents/GitHub/GAM-305---UrbanFantasy/UrbanFantasy/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
-				"C:/Users/Donat/OneDrive/Documents/GitHub/GAM-305---UrbanFantasy/UrbanFantasy/Content/Characters/Mannequins/Meshes/SK_Mannequin.uasset",
-				"C:/Users/Donat/OneDrive/Documents/GitHub/GAM-305---UrbanFantasy/UrbanFantasy/Content/Assets/Sword/SwordGrip.uasset",
-				"C:/Users/Donat/OneDrive/Documents/GitHub/GAM-305---UrbanFantasy/UrbanFantasy/Content/Assets/Sword/BP_GripPickup.uasset",
-				"C:/Users/Donat/OneDrive/Documents/GitHub/GAM-305---UrbanFantasy/UrbanFantasy/Content/Assets/Sword/BP_BladePickup.uasset",
-				"C:/Users/Donat/OneDrive/Documents/GitHub/GAM-305---UrbanFantasy/UrbanFantasy/Content/Assets/Sword/BP_GuardPickup.uasset",
-				"C:/Users/Donat/OneDrive/Documents/GitHub/GAM-305---UrbanFantasy/UrbanFantasy/Content/Characters/Mannequins/Animations/ABP_Manny.uasset",
-				"C:/Users/Donat/OneDrive/Documents/GitHub/GAM-305---UrbanFantasy/UrbanFantasy/Content/Assets/Shield/BP_EnergyShield.uasset",
-				"C:/Users/Donat/OneDrive/Documents/GitHub/GAM-305---UrbanFantasy/UrbanFantasy/Content/Assets/Weapon_Pack/Mesh/Weapons/Weapons_Kit/SM_Sword.uasset",
-				"C:/Users/Donat/OneDrive/Documents/GitHub/GAM-305---UrbanFantasy/UrbanFantasy/Content/Weapon_Pack/Textures/Weapons/T_Weapon_Set1_BaseColor.uasset",
-				"C:/Users/Donat/OneDrive/Documents/GitHub/GAM-305---UrbanFantasy/UrbanFantasy/Content/Weapon_Pack/Textures/Weapons/T_Weapon_Set1_OcclusionRoughnessMetallic.uasset",
-				"C:/Users/Donat/OneDrive/Documents/GitHub/GAM-305---UrbanFantasy/UrbanFantasy/Content/Weapon_Pack/Textures/Weapons/T_Weapon_Set1_Normal.uasset",
-				"C:/Users/Donat/OneDrive/Documents/GitHub/GAM-305---UrbanFantasy/UrbanFantasy/Content/Weapon_Pack/Materials/Weapons/M_WeaponSet_1.uasset",
-				"C:/Users/Donat/OneDrive/Documents/GitHub/GAM-305---UrbanFantasy/UrbanFantasy/Content/Weapon_Pack/Mesh/Weapons/Weapons_Kit/SM_Sword.uasset",
-				"C:/Users/Donat/OneDrive/Documents/GitHub/GAM-305---UrbanFantasy/UrbanFantasy/Content/Maps/_GENERATED/Donat/SwordHandle.uasset",
-				"C:/Users/Donat/OneDrive/Documents/GitHub/GAM-305---UrbanFantasy/UrbanFantasy/Content/Maps/_GENERATED/Donat/SwordBlade.uasset",
-				"C:/Users/Donat/OneDrive/Documents/GitHub/GAM-305---UrbanFantasy/UrbanFantasy/Content/Maps/_GENERATED/Donat/SwordGuard.uasset",
-				"C:/Users/Donat/OneDrive/Documents/GitHub/GAM-305---UrbanFantasy/UrbanFantasy/Content/Assets/Sword/SwordHandle.uasset",
-				"C:/Users/Donat/OneDrive/Documents/GitHub/GAM-305---UrbanFantasy/UrbanFantasy/Content/Assets/Sword/BP_HandlePicup.uasset",
-				"C:/Users/Donat/OneDrive/Documents/GitHub/GAM-305---UrbanFantasy/UrbanFantasy/Content/Assets/Sword/BP_HandlePickup.uasset"
-=======
-				"C:/Users/scott/Desktop/GameDevProjects/GAM-305---UrbanFantasy/UrbanFantasy/Content/UIX/UI_Death.uasset"
->>>>>>> main
+				"D:/URBANFANTASY/GAM-305---UrbanFantasy/UrbanFantasy/Content/Assets/BossCoin_BP.uasset",
+				"D:/URBANFANTASY/GAM-305---UrbanFantasy/UrbanFantasy/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"D:/URBANFANTASY/GAM-305---UrbanFantasy/UrbanFantasy/Content/Material/M_Coin.uasset",
+				"D:/URBANFANTASY/GAM-305---UrbanFantasy/UrbanFantasy/Content/Material/M_DoubleJump.uasset",
+				"D:/URBANFANTASY/GAM-305---UrbanFantasy/UrbanFantasy/Content/Characters/Pickups/MasterPickupBP.uasset",
+				"D:/URBANFANTASY/GAM-305---UrbanFantasy/UrbanFantasy/Content/Characters/Enemy_CHAR/MeleeEnemy_CHAR.uasset",
+				"D:/URBANFANTASY/GAM-305---UrbanFantasy/UrbanFantasy/Content/Characters/Pickups/PowerUpDoubleJump.uasset",
+				"D:/URBANFANTASY/GAM-305---UrbanFantasy/UrbanFantasy/Content/UIX/UI_GameOver.umap",
+				"D:/URBANFANTASY/GAM-305---UrbanFantasy/UrbanFantasy/Content/UIX/Health.uasset",
+				"D:/URBANFANTASY/GAM-305---UrbanFantasy/UrbanFantasy/Content/UIX/UIX_Images/Red_X.uasset",
+				"D:/URBANFANTASY/GAM-305---UrbanFantasy/UrbanFantasy/Content/UIX/UI_Player.uasset",
+				"D:/URBANFANTASY/GAM-305---UrbanFantasy/UrbanFantasy/Content/Assets/BP_FallBox.uasset",
+				"D:/URBANFANTASY/GAM-305---UrbanFantasy/UrbanFantasy/Content/Assets/Sword/BP_Sword.uasset",
+				"D:/URBANFANTASY/GAM-305---UrbanFantasy/UrbanFantasy/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset",
+				"D:/URBANFANTASY/GAM-305---UrbanFantasy/UrbanFantasy/Content/Assets/Projectile_BP.uasset",
+				"D:/URBANFANTASY/GAM-305---UrbanFantasy/UrbanFantasy/Content/Characters/Enemy_CHAR/RangeEnemy_CHAR.uasset",
+				"D:/URBANFANTASY/GAM-305---UrbanFantasy/UrbanFantasy/Content/UIX/GM_UI.uasset",
+				"D:/URBANFANTASY/GAM-305---UrbanFantasy/UrbanFantasy/Content/UIX/UI_Death.uasset",
+				"D:/URBANFANTASY/GAM-305---UrbanFantasy/UrbanFantasy/Content/UIX/WB_BossRoomText.uasset",
+				"D:/URBANFANTASY/GAM-305---UrbanFantasy/UrbanFantasy/Content/UIX/WB_BossRoom1Text.uasset",
+				"D:/URBANFANTASY/GAM-305---UrbanFantasy/UrbanFantasy/Content/Characters/Pickups/HealthPickup_BP.uasset",
+				"D:/URBANFANTASY/GAM-305---UrbanFantasy/UrbanFantasy/Content/Assets/BossRoom2Trigger_BP.uasset",
+				"D:/URBANFANTASY/GAM-305---UrbanFantasy/UrbanFantasy/Content/UIX/WB_BossRoom1EnterText.uasset",
+				"D:/URBANFANTASY/GAM-305---UrbanFantasy/UrbanFantasy/Content/UIX/UI_WinScreen.umap",
+				"D:/URBANFANTASY/GAM-305---UrbanFantasy/UrbanFantasy/Content/Assets/Boss2Coin_BP.uasset",
+				"D:/URBANFANTASY/GAM-305---UrbanFantasy/UrbanFantasy/Content/Assets/BossRoom2TriggerNoText_BP.uasset",
+				"D:/URBANFANTASY/GAM-305---UrbanFantasy/UrbanFantasy/Content/UIX/UI_EndGame.uasset",
+				"D:/URBANFANTASY/GAM-305---UrbanFantasy/UrbanFantasy/Content/UIX/WB_BossRoom1EndText.uasset",
+				"D:/URBANFANTASY/GAM-305---UrbanFantasy/UrbanFantasy/Content/UIX/WB_BossRoom2Text.uasset",
+				"D:/URBANFANTASY/GAM-305---UrbanFantasy/UrbanFantasy/Content/UIX/WB_DJText.uasset",
+				"D:/URBANFANTASY/GAM-305---UrbanFantasy/UrbanFantasy/Content/UIX/WB_KeyText.uasset",
+				"D:/URBANFANTASY/GAM-305---UrbanFantasy/UrbanFantasy/Content/UIX/WB_SwordCollectText.uasset",
+				"D:/URBANFANTASY/GAM-305---UrbanFantasy/UrbanFantasy/Content/UIX/MM_Widget.uasset",
+				"D:/URBANFANTASY/GAM-305---UrbanFantasy/UrbanFantasy/Content/UIX/WB_Credits.uasset",
+				"D:/URBANFANTASY/GAM-305---UrbanFantasy/UrbanFantasy/Content/Checkpoint_And_Goal/BP_Checkpoint.uasset",
+				"D:/URBANFANTASY/GAM-305---UrbanFantasy/UrbanFantasy/Content/Checkpoint_And_Goal/BP_Key.uasset",
+				"D:/URBANFANTASY/GAM-305---UrbanFantasy/UrbanFantasy/Content/Assets/BossTextTrigger_BP.uasset",
+				"D:/URBANFANTASY/GAM-305---UrbanFantasy/UrbanFantasy/Content/UIX/WB_CheckpointText.uasset"
 			]
 		}
 	]
