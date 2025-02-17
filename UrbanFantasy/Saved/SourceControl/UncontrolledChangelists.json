@@ -5,7 +5,44 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> Stashed changes
+=======
+>>>>>>> Stashed changes
+				"D:/URBANFANTASY/GAM-305---UrbanFantasy/UrbanFantasy/Content/Characters/Enemy_CHAR/RangeEnemy_CHAR.uasset",
+				"D:/URBANFANTASY/GAM-305---UrbanFantasy/UrbanFantasy/Content/Assets/Projectile_BP.uasset",
+				"D:/URBANFANTASY/GAM-305---UrbanFantasy/UrbanFantasy/Content/Material/M_ElectricOrb.uasset",
+				"D:/URBANFANTASY/GAM-305---UrbanFantasy/UrbanFantasy/Content/Material/M_Vortex.uasset",
+				"D:/URBANFANTASY/GAM-305---UrbanFantasy/UrbanFantasy/Content/Material/EnemyProjectile/M_ElectricOrb.uasset",
+				"D:/URBANFANTASY/GAM-305---UrbanFantasy/UrbanFantasy/Content/Material/EnemyProjectile/M_Vortex.uasset",
+				"D:/URBANFANTASY/GAM-305---UrbanFantasy/UrbanFantasy/Content/Material/EnemyProjectile/NS_Vortex.uasset",
+				"D:/URBANFANTASY/GAM-305---UrbanFantasy/UrbanFantasy/Content/Maps/Level.umap",
+				"D:/URBANFANTASY/GAM-305---UrbanFantasy/UrbanFantasy/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset",
+				"D:/URBANFANTASY/GAM-305---UrbanFantasy/UrbanFantasy/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset",
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
+=======
+				"C:/Program Files/Epic Games/UE_5.5/Engine/Plugins/Interchange/Assets/Content/gltf/M_Default.uasset",
+				"C:/Users/scott/Desktop/DevProjects/GAM-305---UrbanFantasy/UrbanFantasy/Content/UIX/UIX_Images/RubberDuck.uasset",
+				"C:/Users/scott/Desktop/DevProjects/GAM-305---UrbanFantasy/UrbanFantasy/Content/UIX/UI_Player.uasset",
+>>>>>>> b7e09e5c97460d05a27c6546bab995b6dd8e2a75
+=======
+>>>>>>> Stashed changes
+=======
+>>>>>>> Stashed changes
+				"C:/Users/Donat/OneDrive/Documents/GitHub/GAM-305---UrbanFantasy/UrbanFantasy/Content/Characters/Enemy_CHAR/MeleeEnemy_CHAR.uasset",
+				"C:/Users/Donat/OneDrive/Documents/GitHub/GAM-305---UrbanFantasy/UrbanFantasy/Content/Characters/Mannequins/Animations/Manny/Imported_Animations/AM_Punch_Standard.uasset",
+				"C:/Users/Donat/OneDrive/Documents/GitHub/GAM-305---UrbanFantasy/UrbanFantasy/Content/Characters/Mannequins/Animations/Manny/AM_Punch_Standard.uasset",
+				"C:/Users/Donat/OneDrive/Documents/GitHub/GAM-305---UrbanFantasy/UrbanFantasy/Content/Characters/Mannequins/Animations/Manny/Imported_Animations/QuickPunching_UE.uasset",
+				"C:/Users/Donat/OneDrive/Documents/GitHub/GAM-305---UrbanFantasy/UrbanFantasy/Content/Characters/Mannequins/Animations/Manny/QuickPunching_UE.uasset",
+				"C:/Users/Donat/OneDrive/Documents/GitHub/GAM-305---UrbanFantasy/UrbanFantasy/Content/Assets/Shield/EnergyShield.uasset",
+				"C:/Users/Donat/OneDrive/Documents/GitHub/GAM-305---UrbanFantasy/UrbanFantasy/Content/Assets/Shield/EnergyShieldBase.uasset",
+				"C:/Users/Donat/OneDrive/Documents/GitHub/GAM-305---UrbanFantasy/UrbanFantasy/Content/Assets/Shield/BP_EnergyShield.uasset",
+=======
 				"C:/Users/Donat/OneDrive/Documents/GitHub/GAM-305---UrbanFantasy/UrbanFantasy/Content/Assets/Weapon_Pack/Materials/Weapons/M_WeaponSet_1.uasset",
 				"C:/Users/Donat/OneDrive/Documents/GitHub/GAM-305---UrbanFantasy/UrbanFantasy/Content/Assets/Weapon_Pack/Textures/Weapons/T_Weapon_Set1_Normal.uasset",
 				"C:/Users/Donat/OneDrive/Documents/GitHub/GAM-305---UrbanFantasy/UrbanFantasy/Content/Assets/Weapon_Pack/Textures/Weapons/T_Weapon_Set1_OcclusionRoughnessMetallic.uasset",
@@ -18,6 +55,7 @@
 				"C:/Users/Donat/OneDrive/Documents/GitHub/GAM-305---UrbanFantasy/UrbanFantasy/Content/Maps/Level.umap",
 				"C:/Users/Donat/OneDrive/Documents/GitHub/GAM-305---UrbanFantasy/UrbanFantasy/Content/Assets/Sword/BP_Sword.uasset",
 				"C:/Users/Donat/OneDrive/Documents/GitHub/GAM-305---UrbanFantasy/UrbanFantasy/Content/Characters/Mannequins/Animations/Manny/Imported_Animations/SwordAndShieldSlash_UE.uasset",
+>>>>>>> main
 				"C:/Users/Donat/OneDrive/Documents/GitHub/GAM-305---UrbanFantasy/UrbanFantasy/Content/Characters/Mannequins/Meshes/SKM_Quinn_Simple.uasset",
 				"C:/Users/Donat/OneDrive/Documents/GitHub/GAM-305---UrbanFantasy/UrbanFantasy/Content/Characters/Mannequins/Animations/Manny/Imported_Animations/AM_Unsheathe.uasset",
 				"C:/Users/Donat/OneDrive/Documents/GitHub/GAM-305---UrbanFantasy/UrbanFantasy/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset",
