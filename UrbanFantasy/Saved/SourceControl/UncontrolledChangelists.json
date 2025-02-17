@@ -5,19 +5,7 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"D:/URBANFANTASY/GAM-305---UrbanFantasy/UrbanFantasy/Content/Material/EnemyProjectile/M_FinalProjectile.uasset",
-				"D:/URBANFANTASY/GAM-305---UrbanFantasy/UrbanFantasy/Content/Material/M_Projectile.uasset",
-				"D:/URBANFANTASY/GAM-305---UrbanFantasy/UrbanFantasy/Content/Assets/Projectile_BP.uasset",
-				"D:/URBANFANTASY/GAM-305---UrbanFantasy/UrbanFantasy/Content/Characters/Enemy_CHAR/MeleeBoss_CHAR.uasset",
-				"D:/URBANFANTASY/GAM-305---UrbanFantasy/UrbanFantasy/Content/Maps/Level.umap",
-				"D:/URBANFANTASY/GAM-305---UrbanFantasy/UrbanFantasy/Content/Checkpoint_And_Goal/BP_Key.uasset",
-				"D:/URBANFANTASY/GAM-305---UrbanFantasy/UrbanFantasy/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
-				"D:/URBANFANTASY/GAM-305---UrbanFantasy/UrbanFantasy/Content/Characters/Enemy_CHAR/MeleeEnemy_CHAR.uasset",
-				"D:/URBANFANTASY/GAM-305---UrbanFantasy/UrbanFantasy/Content/Characters/Enemy_CHAR/Animation/AP_EnemyAI.uasset",
-				"D:/URBANFANTASY/GAM-305---UrbanFantasy/UrbanFantasy/Content/Characters/Enemy_CHAR/RangeEnemy_CHAR.uasset",
-				"D:/URBANFANTASY/GAM-305---UrbanFantasy/UrbanFantasy/Content/Assets/BossCoin_BP.uasset",
-				"D:/URBANFANTASY/GAM-305---UrbanFantasy/UrbanFantasy/Content/Assets/BossDoor_BP.uasset",
-				"D:/URBANFANTASY/GAM-305---UrbanFantasy/UrbanFantasy/Content/Assets/BossTextTrigger_BP.uasset"
+				"C:/Users/scott/Desktop/GameDevProjects/GAM-305---UrbanFantasy/UrbanFantasy/Content/UIX/UI_Death.uasset"
 			]
 		}
 	]
