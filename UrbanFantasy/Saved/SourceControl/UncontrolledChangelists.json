@@ -8,6 +8,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> Stashed changes
 =======
@@ -41,14 +42,46 @@
 				"C:/Users/Donat/OneDrive/Documents/GitHub/GAM-305---UrbanFantasy/UrbanFantasy/Content/Assets/Shield/EnergyShield.uasset",
 				"C:/Users/Donat/OneDrive/Documents/GitHub/GAM-305---UrbanFantasy/UrbanFantasy/Content/Assets/Shield/EnergyShieldBase.uasset",
 				"C:/Users/Donat/OneDrive/Documents/GitHub/GAM-305---UrbanFantasy/UrbanFantasy/Content/Assets/Shield/BP_EnergyShield.uasset",
+=======
+				"C:/Users/Donat/OneDrive/Documents/GitHub/GAM-305---UrbanFantasy/UrbanFantasy/Content/Assets/Weapon_Pack/Materials/Weapons/M_WeaponSet_1.uasset",
+				"C:/Users/Donat/OneDrive/Documents/GitHub/GAM-305---UrbanFantasy/UrbanFantasy/Content/Assets/Weapon_Pack/Textures/Weapons/T_Weapon_Set1_Normal.uasset",
+				"C:/Users/Donat/OneDrive/Documents/GitHub/GAM-305---UrbanFantasy/UrbanFantasy/Content/Assets/Weapon_Pack/Textures/Weapons/T_Weapon_Set1_OcclusionRoughnessMetallic.uasset",
+				"C:/Users/Donat/OneDrive/Documents/GitHub/GAM-305---UrbanFantasy/UrbanFantasy/Content/Assets/Weapon_Pack/Textures/Weapons/T_Weapon_Set1_BaseColor.uasset",
+				"C:/Users/Donat/OneDrive/Documents/GitHub/GAM-305---UrbanFantasy/UrbanFantasy/Content/Assets/Sword/SwordBlade.uasset",
+				"C:/Users/Donat/OneDrive/Documents/GitHub/GAM-305---UrbanFantasy/UrbanFantasy/Content/Assets/Sword/SwordGuard.uasset",
+				"C:/Users/Donat/OneDrive/Documents/GitHub/GAM-305---UrbanFantasy/UrbanFantasy/Content/Assets/Sword/SM_Sword.uasset",
+				"C:/Users/Donat/OneDrive/Documents/GitHub/GAM-305---UrbanFantasy/UrbanFantasy/Content/Characters/Mannequins/Animations/Manny/Imported_Animations/AM_SwordSlash.uasset",
+				"C:/Users/Donat/OneDrive/Documents/GitHub/GAM-305---UrbanFantasy/UrbanFantasy/Content/Characters/Mannequins/Animations/Manny/Imported_Animations/WithdrawingSword_UE.uasset",
+				"C:/Users/Donat/OneDrive/Documents/GitHub/GAM-305---UrbanFantasy/UrbanFantasy/Content/Maps/Level.umap",
+				"C:/Users/Donat/OneDrive/Documents/GitHub/GAM-305---UrbanFantasy/UrbanFantasy/Content/Assets/Sword/BP_Sword.uasset",
+				"C:/Users/Donat/OneDrive/Documents/GitHub/GAM-305---UrbanFantasy/UrbanFantasy/Content/Characters/Mannequins/Animations/Manny/Imported_Animations/SwordAndShieldSlash_UE.uasset",
+>>>>>>> main
 				"C:/Users/Donat/OneDrive/Documents/GitHub/GAM-305---UrbanFantasy/UrbanFantasy/Content/Characters/Mannequins/Meshes/SKM_Quinn_Simple.uasset",
-				"C:/Users/Donat/OneDrive/Documents/GitHub/GAM-305---UrbanFantasy/UrbanFantasy/Content/ThirdPerson/Blueprints/AnimNS_HitDetection.uasset",
+				"C:/Users/Donat/OneDrive/Documents/GitHub/GAM-305---UrbanFantasy/UrbanFantasy/Content/Characters/Mannequins/Animations/Manny/Imported_Animations/AM_Unsheathe.uasset",
+				"C:/Users/Donat/OneDrive/Documents/GitHub/GAM-305---UrbanFantasy/UrbanFantasy/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset",
 				"C:/Users/Donat/OneDrive/Documents/GitHub/GAM-305---UrbanFantasy/UrbanFantasy/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
 				"C:/Users/Donat/OneDrive/Documents/GitHub/GAM-305---UrbanFantasy/UrbanFantasy/Content/Characters/Mannequins/Meshes/SK_Mannequin.uasset",
-				"C:/Users/Donat/OneDrive/Documents/GitHub/GAM-305---UrbanFantasy/UrbanFantasy/Content/Characters/Mannequins/Animations/Manny/Imported_Animations/AM_ShieldIdle.uasset",
-				"C:/Users/Donat/OneDrive/Documents/GitHub/GAM-305---UrbanFantasy/UrbanFantasy/Content/Characters/Mannequins/Animations/Manny/Imported_Animations/SwordAndShieldBlock_UE.uasset",
-				"C:/Users/Donat/OneDrive/Documents/GitHub/GAM-305---UrbanFantasy/UrbanFantasy/Content/Characters/Mannequins/Animations/Manny/Imported_Animations/AM_ShieldUp.uasset",
-				"C:/Users/Donat/OneDrive/Documents/GitHub/GAM-305---UrbanFantasy/UrbanFantasy/Content/Characters/Mannequins/Animations/Manny/Imported_Animations/SwordAndShieldBlockIdle_UE.uasset"
+				"C:/Users/Donat/OneDrive/Documents/GitHub/GAM-305---UrbanFantasy/UrbanFantasy/Content/Assets/Sword/SwordGrip.uasset",
+				"C:/Users/Donat/OneDrive/Documents/GitHub/GAM-305---UrbanFantasy/UrbanFantasy/Content/Assets/Sword/BP_GripPickup.uasset",
+				"C:/Users/Donat/OneDrive/Documents/GitHub/GAM-305---UrbanFantasy/UrbanFantasy/Content/Assets/Sword/BP_BladePickup.uasset",
+				"C:/Users/Donat/OneDrive/Documents/GitHub/GAM-305---UrbanFantasy/UrbanFantasy/Content/Assets/Sword/BP_GuardPickup.uasset",
+				"C:/Users/Donat/OneDrive/Documents/GitHub/GAM-305---UrbanFantasy/UrbanFantasy/Content/Characters/Mannequins/Animations/ABP_Manny.uasset",
+				"C:/Users/Donat/OneDrive/Documents/GitHub/GAM-305---UrbanFantasy/UrbanFantasy/Content/Assets/Shield/BP_EnergyShield.uasset",
+				"C:/Users/Donat/OneDrive/Documents/GitHub/GAM-305---UrbanFantasy/UrbanFantasy/Content/Assets/Weapon_Pack/Mesh/Weapons/Weapons_Kit/SM_Sword.uasset",
+				"C:/Users/Donat/OneDrive/Documents/GitHub/GAM-305---UrbanFantasy/UrbanFantasy/Content/Weapon_Pack/Textures/Weapons/T_Weapon_Set1_BaseColor.uasset",
+				"C:/Users/Donat/OneDrive/Documents/GitHub/GAM-305---UrbanFantasy/UrbanFantasy/Content/Weapon_Pack/Textures/Weapons/T_Weapon_Set1_OcclusionRoughnessMetallic.uasset",
+				"C:/Users/Donat/OneDrive/Documents/GitHub/GAM-305---UrbanFantasy/UrbanFantasy/Content/Weapon_Pack/Textures/Weapons/T_Weapon_Set1_Normal.uasset",
+				"C:/Users/Donat/OneDrive/Documents/GitHub/GAM-305---UrbanFantasy/UrbanFantasy/Content/Weapon_Pack/Materials/Weapons/M_WeaponSet_1.uasset",
+				"C:/Users/Donat/OneDrive/Documents/GitHub/GAM-305---UrbanFantasy/UrbanFantasy/Content/Weapon_Pack/Mesh/Weapons/Weapons_Kit/SM_Sword.uasset",
+				"C:/Users/Donat/OneDrive/Documents/GitHub/GAM-305---UrbanFantasy/UrbanFantasy/Content/Maps/_GENERATED/Donat/SwordHandle.uasset",
+				"C:/Users/Donat/OneDrive/Documents/GitHub/GAM-305---UrbanFantasy/UrbanFantasy/Content/Maps/_GENERATED/Donat/SwordBlade.uasset",
+				"C:/Users/Donat/OneDrive/Documents/GitHub/GAM-305---UrbanFantasy/UrbanFantasy/Content/Maps/_GENERATED/Donat/SwordGuard.uasset",
+				"C:/Users/Donat/OneDrive/Documents/GitHub/GAM-305---UrbanFantasy/UrbanFantasy/Content/Assets/Sword/SwordHandle.uasset",
+				"C:/Users/Donat/OneDrive/Documents/GitHub/GAM-305---UrbanFantasy/UrbanFantasy/Content/Assets/Sword/BP_HandlePicup.uasset",
+				"C:/Users/Donat/OneDrive/Documents/GitHub/GAM-305---UrbanFantasy/UrbanFantasy/Content/Assets/Sword/BP_HandlePickup.uasset"
+=======
+				"C:/Users/scott/Desktop/GameDevProjects/GAM-305---UrbanFantasy/UrbanFantasy/Content/UIX/UI_Death.uasset"
+>>>>>>> main
 			]
 		}
 	]
