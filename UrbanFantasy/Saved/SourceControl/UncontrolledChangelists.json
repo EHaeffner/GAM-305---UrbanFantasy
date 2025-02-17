@@ -5,6 +5,7 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+<<<<<<< HEAD
 				"C:/Users/Donat/OneDrive/Documents/GitHub/GAM-305---UrbanFantasy/UrbanFantasy/Content/Assets/Weapon_Pack/Materials/Weapons/M_WeaponSet_1.uasset",
 				"C:/Users/Donat/OneDrive/Documents/GitHub/GAM-305---UrbanFantasy/UrbanFantasy/Content/Assets/Weapon_Pack/Textures/Weapons/T_Weapon_Set1_Normal.uasset",
 				"C:/Users/Donat/OneDrive/Documents/GitHub/GAM-305---UrbanFantasy/UrbanFantasy/Content/Assets/Weapon_Pack/Textures/Weapons/T_Weapon_Set1_OcclusionRoughnessMetallic.uasset",
@@ -40,6 +41,9 @@
 				"C:/Users/Donat/OneDrive/Documents/GitHub/GAM-305---UrbanFantasy/UrbanFantasy/Content/Assets/Sword/SwordHandle.uasset",
 				"C:/Users/Donat/OneDrive/Documents/GitHub/GAM-305---UrbanFantasy/UrbanFantasy/Content/Assets/Sword/BP_HandlePicup.uasset",
 				"C:/Users/Donat/OneDrive/Documents/GitHub/GAM-305---UrbanFantasy/UrbanFantasy/Content/Assets/Sword/BP_HandlePickup.uasset"
+=======
+				"C:/Users/scott/Desktop/GameDevProjects/GAM-305---UrbanFantasy/UrbanFantasy/Content/UIX/UI_Death.uasset"
+>>>>>>> main
 			]
 		}
 	]
