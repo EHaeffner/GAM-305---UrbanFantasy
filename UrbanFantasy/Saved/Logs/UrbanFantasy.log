@@ -1964,3 +1964,81 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.02.17-04.09.27:866][336]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2025.02.17-04.09.27:866][336]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2025.02.17-04.09.27:867][336]AssetCheck: /Game/UIX/UI_Death Validating asset
+[2025.02.17-04.09.48:014][681]LogHttp: Warning: 000009023DC35B00: request failed, libcurl error: 65 (Send failed since rewinding of the data stream failed)
+[2025.02.17-04.09.48:014][681]LogHttp: Warning: 000009023DC35B00: libcurl info message cache 0 (Found bundle for host: 0x90181040a50 [serially])
+[2025.02.17-04.09.48:014][681]LogHttp: Warning: 000009023DC35B00: libcurl info message cache 1 (Re-using existing connection with host datarouter.ol.epicgames.com)
+[2025.02.17-04.09.48:014][681]LogHttp: Warning: 000009023DC35B00: libcurl info message cache 2 (We are completely uploaded and fine)
+[2025.02.17-04.09.48:014][681]LogHttp: Warning: 000009023DC35B00: libcurl info message cache 3 (Connection died, retrying a fresh connect (retry count: 1))
+[2025.02.17-04.09.48:014][681]LogHttp: Warning: 000009023DC35B00: libcurl info message cache 4 (state.rewindbeforesend = TRUE)
+[2025.02.17-04.09.48:014][681]LogHttp: Warning: 000009023DC35B00: libcurl info message cache 5 (Closing connection)
+[2025.02.17-04.09.48:014][681]LogHttp: Warning: 000009023DC35B00: libcurl info message cache 6 (TLSv1.3 (OUT), TLS alert, close notify (256):)
+[2025.02.17-04.09.48:014][681]LogHttp: Warning: 000009023DC35B00: libcurl info message cache 7 (Issue another request to this URL: 'https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BEE594012-4CF5-69A1-BD75-CB9E6E038611%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.5.3-39772772%2B%2B%2BUE5%2BRelease-5.5&UserID=2652c8604ecb676b59b09e928055b164%7Cc0fff04288d44e35aa990f8c65a564d8%7C7767d1cd-20cc-4fd8-9019-32f1b449ca90&AppEnvironment=datacollector-binary&UploadType=eteventstream')
+[2025.02.17-04.09.48:014][681]LogHttp: Warning: 000009023DC35B00: libcurl info message cache 8 (  Trying 98.84.90.43:443...)
+[2025.02.17-04.09.48:014][681]LogHttp: Warning: 000009023DC35B00: libcurl info message cache 9 (Connected to datarouter.ol.epicgames.com (98.84.90.43) port 443)
+[2025.02.17-04.09.48:014][681]LogHttp: Warning: 000009023DC35B00: libcurl info message cache 10 (ALPN: curl offers http/1.1)
+[2025.02.17-04.09.48:014][681]LogHttp: Warning: 000009023DC35B00: libcurl info message cache 11 (SSL reusing session ID)
+[2025.02.17-04.09.48:014][681]LogHttp: Warning: 000009023DC35B00: libcurl info message cache 12 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2025.02.17-04.09.48:014][681]LogHttp: Warning: 000009023DC35B00: libcurl info message cache 13 (TLSv1.3 (IN), TLS handshake, Server hello (2):)
+[2025.02.17-04.09.48:014][682]LogHttp: Warning: 000009023DC35B00: libcurl info message cache 14 (TLSv1.3 (IN), TLS handshake, Encrypted Extensions (8):)
+[2025.02.17-04.09.48:014][682]LogHttp: Warning: 000009023DC35B00: libcurl info message cache 15 (TLSv1.3 (IN), TLS handshake, Certificate (11):)
+[2025.02.17-04.09.48:014][682]LogHttp: Warning: 000009023DC35B00: libcurl info message cache 16 (TLSv1.3 (IN), TLS handshake, CERT verify (15):)
+[2025.02.17-04.09.48:014][682]LogHttp: Warning: 000009023DC35B00: libcurl info message cache 17 (TLSv1.3 (IN), TLS handshake, Finished (20):)
+[2025.02.17-04.09.48:014][682]LogHttp: Warning: 000009023DC35B00: libcurl info message cache 18 (TLSv1.3 (OUT), TLS change cipher, Change cipher spec (1):)
+[2025.02.17-04.09.48:014][682]LogHttp: Warning: 000009023DC35B00: libcurl info message cache 19 (TLSv1.3 (OUT), TLS handshake, Finished (20):)
+[2025.02.17-04.09.48:014][682]LogHttp: Warning: 000009023DC35B00: libcurl info message cache 20 (SSL connection using TLSv1.3 / TLS_AES_128_GCM_SHA256)
+[2025.02.17-04.09.48:014][682]LogHttp: Warning: 000009023DC35B00: libcurl info message cache 21 (ALPN: server accepted http/1.1)
+[2025.02.17-04.09.48:014][682]LogHttp: Warning: 000009023DC35B00: libcurl info message cache 22 (Server certificate:)
+[2025.02.17-04.09.48:014][682]LogHttp: Warning: 000009023DC35B00: libcurl info message cache 23 ( subject: CN=datarouter.cfef.live.use1a.on.epicgames.com)
+[2025.02.17-04.09.48:014][682]LogHttp: Warning: 000009023DC35B00: libcurl info message cache 24 ( start date: Feb  2 00:00:00 2025 GMT)
+[2025.02.17-04.09.48:014][682]LogHttp: Warning: 000009023DC35B00: libcurl info message cache 25 ( expire date: Mar  3 23:59:59 2026 GMT)
+[2025.02.17-04.09.48:014][682]LogHttp: Warning: 000009023DC35B00: libcurl info message cache 26 ( subjectAltName: host "datarouter.ol.epicgames.com" matched cert's "datarouter.ol.epicgames.com")
+[2025.02.17-04.09.48:014][682]LogHttp: Warning: 000009023DC35B00: libcurl info message cache 27 ( issuer: C=US; O=Amazon; CN=Amazon RSA 2048 M03)
+[2025.02.17-04.09.48:014][682]LogHttp: Warning: 000009023DC35B00: libcurl info message cache 28 ( SSL certificate verify ok.)
+[2025.02.17-04.09.48:014][682]LogHttp: Warning: 000009023DC35B00: libcurl info message cache 29 (using HTTP/1.1)
+[2025.02.17-04.09.48:014][682]LogHttp: Warning: 000009023DC35B00: libcurl info message cache 30 (necessary data rewind wasn't possible)
+[2025.02.17-04.09.48:014][682]LogHttp: Warning: 000009023DC35B00: libcurl info message cache 31 (Closing connection)
+[2025.02.17-04.09.48:014][682]LogHttp: Warning: 000009023DC35B00: libcurl info message cache 32 (TLSv1.3 (OUT), TLS alert, close notify (256):)
+[2025.02.17-04.09.51:011][690]LogShaderCompilers: Display: ================================================
+[2025.02.17-04.09.51:011][690]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.02.17-04.09.51:011][690]LogShaderCompilers: Display: Total job queries 213, among them cache hits 40 (18.78%), DDC hits 166 (77.93%), Duplicates 4 (1.88%)
+[2025.02.17-04.09.51:011][690]LogShaderCompilers: Display: Tracking 169 distinct input hashes that result in 148 distinct outputs (87.57%)
+[2025.02.17-04.09.51:011][690]LogShaderCompilers: Display: RAM used: 118.09 KiB of 3.20 GiB budget. Usage: 0.00%
+[2025.02.17-04.09.51:011][690]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.02.17-04.09.51:011][690]LogShaderCompilers: Display: Shaders Compiled: 3
+[2025.02.17-04.09.51:011][690]LogShaderCompilers: Display: Jobs assigned 3, completed 3 (100%)
+[2025.02.17-04.09.51:011][690]LogShaderCompilers: Display: Average time worker was idle: 1609.20 s
+[2025.02.17-04.09.51:011][690]LogShaderCompilers: Display: Time job spent in pending queue: average 0.09 s, longest 0.10 s
+[2025.02.17-04.09.51:011][690]LogShaderCompilers: Display: Job execution time: average 0.81 s, max 1.11 s
+[2025.02.17-04.09.51:011][690]LogShaderCompilers: Display: Job life time (pending + execution): average 0.90 s, max 1.21
+[2025.02.17-04.09.51:011][690]LogShaderCompilers: Display: Shader code size: average 11.199 KiB, min 10.426 KiB, max 11.938 KiB
+[2025.02.17-04.09.51:011][690]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 2.00 s
+[2025.02.17-04.09.51:011][690]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.01%
+[2025.02.17-04.09.51:011][690]LogShaderCompilers: Display: Jobs were issued in 3 batches (only local compilation was used), average 1.00 jobs/batch
+[2025.02.17-04.09.51:011][690]LogShaderCompilers: Display: Average processing rate: 1.50 jobs/sec
+[2025.02.17-04.09.51:011][690]LogShaderCompilers: Display: Total thread time: 0.922 s
+[2025.02.17-04.09.51:011][690]LogShaderCompilers: Display: Total thread preprocess time: 2.753 s
+[2025.02.17-04.09.51:011][690]LogShaderCompilers: Display: Percentage time preprocessing: 298.63%
+[2025.02.17-04.09.51:011][690]LogShaderCompilers: Display: Effective parallelization: 0.46 (times faster than compiling all shaders on one thread). Compare with number of workers: 16
+[2025.02.17-04.09.51:011][690]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.02.17-04.09.51:011][690]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight (compiled    1 times, average 0.36 sec, max 0.36 sec, min 0.36 sec)
+[2025.02.17-04.09.51:011][690]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    1 times, average 0.33 sec, max 0.33 sec, min 0.33 sec)
+[2025.02.17-04.09.51:011][690]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    1 times, average 0.24 sec, max 0.24 sec, min 0.24 sec)
+[2025.02.17-04.09.51:011][690]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2025.02.17-04.09.51:011][690]LogShaderCompilers: Display:                                                FAnisotropyVS (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2025.02.17-04.09.51:011][690]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.02.17-04.09.51:011][690]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 38.87% of total time (compiled    1 times, average 0.36 sec, max 0.36 sec, min 0.36 sec)
+[2025.02.17-04.09.51:011][690]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 35.59% of total time (compiled    1 times, average 0.33 sec, max 0.33 sec, min 0.33 sec)
+[2025.02.17-04.09.51:011][690]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 25.54% of total time (compiled    1 times, average 0.24 sec, max 0.24 sec, min 0.24 sec)
+[2025.02.17-04.09.51:011][690]LogShaderCompilers: Display:                                                 FLumenCardVS - 0.00% of total time (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2025.02.17-04.09.51:011][690]LogShaderCompilers: Display:                                                FAnisotropyVS - 0.00% of total time (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2025.02.17-04.09.51:011][690]LogShaderCompilers: Display: === Material stats ===
+[2025.02.17-04.09.51:011][690]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.02.17-04.09.51:011][690]LogShaderCompilers: Display: Materials Translated:    135
+[2025.02.17-04.09.51:011][690]LogShaderCompilers: Display: Material Total Translate Time: 0.06 s
+[2025.02.17-04.09.51:011][690]LogShaderCompilers: Display: Material Translation Only: 0.03 s (53%)
+[2025.02.17-04.09.51:011][690]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (2%)
+[2025.02.17-04.09.51:011][690]LogShaderCompilers: Display: Material Cache Hits: 25 (19%)
+[2025.02.17-04.09.51:011][690]LogShaderCompilers: Display: ================================================
+[2025.02.17-04.11.14:752][845]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2067.707520
+[2025.02.17-04.11.15:752][848]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.02.17-04.11.15:752][848]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2068.374268, Update Interval: 327.252411
