@@ -5,6 +5,10 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/javc0/Documents/GitHub/GAM-305---UrbanFantasy/UrbanFantasy/Content/Maps/Level.umap",
+				"C:/Users/javc0/Documents/GitHub/GAM-305---UrbanFantasy/UrbanFantasy/Content/Characters/Enemy_CHAR/RangeEnemy_CHAR.uasset",
+				"C:/Users/javc0/Documents/GitHub/GAM-305---UrbanFantasy/UrbanFantasy/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/javc0/Documents/GitHub/GAM-305---UrbanFantasy/UrbanFantasy/Content/Checkpoint_And_Goal/BP_Key.uasset",
 				"D:/URBANFANTASY/GAM-305---UrbanFantasy/UrbanFantasy/Content/Maps/Level.umap",
 				"D:/URBANFANTASY/GAM-305---UrbanFantasy/UrbanFantasy/Content/Assets/BossCoin_BP.uasset",
 				"D:/URBANFANTASY/GAM-305---UrbanFantasy/UrbanFantasy/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
